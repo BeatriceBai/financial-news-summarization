@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Nvidia (NVDA).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Update: Market Chatter: Nvidia Says No Upfront Payment Required for H200 Chips\n\nBODY:\n06:20 AM EST, 01/13/2026 (MT Newswires) -- (Update to add Nvidia's comment in the second paragraph.)\n\nNvidia (NVDA) doesn't require upfront payment for its H200 chips, a company spokesperson told Reuters on Tuesday following the outlet's report that it imposed unusually strict payment terms on Chinese customers.\n\n\"We do not require upfront payment and would never require customers to pay for products that they do not receive\", Nvidia's spokesperson told MT Newswire in an email statement.\n\nReuters reported last week that the chipmaker has been more stringent with H200 orders due to uncertainty over whether Chinese regulators will approve shipments.\n\n(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)",
+ "text": "Nvidia has publicly denied a Reuters report claiming it required upfront payment from Chinese customers for H200 chip orders. A company spokesperson stated Nvidia does not require prepayment and would never ask customers to pay for undelivered products. The original Reuters report suggested Nvidia had tightened payment terms for Chinese buyers due to uncertainty over whether Chinese regulators would approve the H200 shipments. This clarification addresses concerns about Nvidia's sales practices in China amid ongoing regulatory ambiguity, though the underlying uncertainty around Chinese approval for H200 exports remains unresolved and could still affect near-term revenue visibility in that market.",
+ "usage": {
+  "input": 400,
+  "output": 228,
+  "stop_reason": "end_turn"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Charles Schwab (SCHW).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Charles Schwab will match the U.S. government's one-time $1,000 contribution to eligible newborn children of Schwab's U.S. employees, providing an additional $1,000 per eligible child\n\nBODY:\n[No article body - headline only]",
+ "text": "Charles Schwab announced it will match the U.S. government's one-time $1,000 contribution for eligible newborn children of its U.S. employees, effectively doubling the benefit to $2,000 per eligible child. This move represents an enhancement to Schwab's employee benefits package, potentially strengthening talent retention and recruitment efforts. While the financial impact on the company's overall balance sheet is likely minimal given typical employee birth rates, the announcement signals continued investment in workforce benefits, which investors may view as a positive indicator of corporate culture and employee-focused policy amid competitive labor markets in the financial services sector.",
+ "usage": {
+  "input": 147,
+  "output": 207,
+  "stop_reason": "end_turn"
+ }
+}

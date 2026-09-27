@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Apple Intends to Expand Ads in App Store Search Results From 2026\n\nBODY:\n04:41 AM EST, 12/18/2025 (MT Newswires) -- Apple (AAPL) said Wednesday it plans to increase the number of advertisements that appear in its App Store search results from next year.\n\nApple Ads will introduce additional ads across search queries to help give advertisers \"more opportunities\" to drive downloads from search results, the iPhone maker said in an update posted on its website.\n\n\"If you have a search results campaign running, your ad will be automatically eligible for all available positions, but you can't select or bid for a particular one,\" the company said. \"You'll be billed as usual based on your pricing model: cost per tap or cost per install.\"",
+ "text": "Apple announced plans to expand advertising within App Store search results starting in 2026, aiming to give advertisers more opportunities to drive app downloads. Under the update, ads running search campaigns will automatically qualify for all available ad positions, though advertisers cannot select or bid for specific placements. Billing will continue under existing pricing models\u2014cost per tap or cost per install. This move signals Apple's continued push to grow its high-margin Services segment, particularly Apple Ads, by increasing ad inventory within the App Store. Investors may view this as a incremental positive for Services revenue growth, though it could raise developer visibility competition concerns.",
+ "usage": {
+  "input": 302,
+  "output": 208,
+  "stop_reason": "end_turn"
+ }
+}

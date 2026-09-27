@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Chase confirms it will become new issuer of Apple (AAPL) Card\n\nBODY:\nApple Card users can continue to enjoy the award-winning experience of Apple Card, which includes up to 3 percent unlimited Daily Cash back on every purchase, easy-to-navigate spending tools, Apple Card Family,1 access to a high-yield Savings account,2 and more. Mastercard will remain the payment network for Apple Card, and Apple Card users can continue to access Mastercard's global acceptance and benefits.Click here for full release.",
+ "text": "JPMorgan Chase has been confirmed as the new issuer of Apple Card, taking over from Goldman Sachs. Cardholders will retain existing features, including up to 3% unlimited Daily Cash back, Apple Card Family, access to a high-yield Savings account, and intuitive spending tools. Mastercard continues as the payment network, preserving global acceptance and network benefits. This transition suggests Apple is stabilizing its financial services partnerships after reported friction with Goldman Sachs, potentially improving customer service and program economics. Investors should watch for any changes to terms, rewards structure, or expansion of Apple's financial ecosystem that could affect Services segment revenue and customer loyalty.",
+ "usage": {
+  "input": 245,
+  "output": 236,
+  "stop_reason": "end_turn"
+ }
+}

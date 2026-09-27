@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Nvidia (NVDA).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: NVIDIA -2.8% gapped higher following its impressive earnings report last night, but has pulled back into negative territory\n\nBODY:\n[No article body - headline only]",
+ "text": "Nvidia (NVDA) shares initially gapped higher after the company posted a strong earnings report, reflecting positive market reaction to the results. However, the stock has since reversed course and is now trading down approximately 2.8% on the day, erasing the earlier gains. This pullback suggests investors may be taking profits or reassessing valuation despite the earnings beat, or broader market/sector pressures could be weighing on the stock. Investors should watch for further details on guidance, margins, or sector sentiment that may clarify the reversal despite the initially well-received earnings report.",
+ "usage": {
+  "input": 121,
+  "output": 186,
+  "stop_reason": "end_turn"
+ }
+}

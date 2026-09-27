@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Charles Schwab (SCHW).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Raymond James Adjusts PT on Charles Schwab to $114 From $110, Maintains Outperform Rating\n\nBODY:\n06:51 AM EST, 01/06/2026 (MT Newswires) -- Charles Schwab (SCHW) has an average rating of overweight and mean price target of $116, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",
+ "text": "Raymond James raised its price target on Charles Schwab (SCHW) to $114 from $110, maintaining its Outperform rating. This aligns with broader analyst sentiment, as FactSet-polled analysts currently give SCHW an average \"overweight\" rating with a mean price target of $116, suggesting continued confidence in the stock's upside potential among Wall Street research firms covering the brokerage and financial services company.",
+ "usage": {
+  "input": 253,
+  "output": 138,
+  "stop_reason": "end_turn"
+ }
+}

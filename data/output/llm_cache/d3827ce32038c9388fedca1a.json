@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Nvidia (NVDA).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Nvidia Acquires Workload Management System Developer SchedMD\n\nBODY:\n12:07 PM EST, 12/15/2025 (MT Newswires) -- Nvidia (NVDA) said Monday it has acquired SchedMD, the developer of Slurm, an open-source workload management system for high-performance computing and artificial intelligence.\n\nFinancial details of the transaction were not disclosed.\n\nWith the acquisition, Nvidia will continue to develop and distribute Slurm as open-source, vendor-neutral software, the company said.\n\nShares of the company were up 1.6% in recent Monday trading.\n\nPrice: 177.83, Change: +2.81, Percent Change: +1.61",
+ "text": "Nvidia has acquired SchedMD, the company behind Slurm, a widely used open-source workload management system for high-performance computing and AI workloads. Terms of the deal were not disclosed, but Nvidia confirmed it will keep Slurm open-source and vendor-neutral, signaling a strategy to strengthen its software ecosystem around AI infrastructure without alienating other hardware partners. The move underscores Nvidia's continued expansion beyond chips into software and tooling that support large-scale AI deployment. Shares rose 1.6% to $177.83 on the news, reflecting modest investor approval of the acquisition as a strategic, low-risk addition to its ecosystem.",
+ "usage": {
+  "input": 294,
+  "output": 228,
+  "stop_reason": "end_turn"
+ }
+}

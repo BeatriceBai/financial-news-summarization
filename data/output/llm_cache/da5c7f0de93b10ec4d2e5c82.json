@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows JPMorgan Chase (JPM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Update: JPMorgan Asset Management Seeks to Convert Certain Municipal Funds Into ETFs\n\nBODY:\n03:36 PM EST, 12/09/2025 (MT Newswires) -- (Updates with the company's statement throughout.)\n\nJPMorgan Chase's (JPM) investment management division JPMorgan Asset Management said Tuesday it plans to convert certain US mutual funds into exchange-traded funds in 2026.\n\nThe proposed conversions, if approved by the board of the funds in February, are expected to provide benefits like flexibility, increased transparency and enhanced tax efficiency, JPMorgan Asset Management said.\n\nJPMorgan believes that these funds, including JPMorgan New York Tax Free Bond Fund, JPMorgan California Tax Free Bond Fund, JPMorgan Preferred and Income Securities Fund, and JPMorgan US GARP Equity Fund are \"well suited\" for the ETF structure, the investment management arm said, adding that the combined assets of the funds are about $4.6 billion.\n\nPrice: 302.16, Change: -13.05, Percent Change: -4.14",
+ "text": "JPMorgan Asset Management announced plans to convert several US mutual funds\u2014including the JPMorgan New York Tax Free Bond Fund, California Tax Free Bond Fund, Preferred and Income Securities Fund, and US GARP Equity Fund\u2014into ETFs in 2026, pending board approval in February. The funds, representing roughly $4.6 billion in combined assets, are seen as well-suited for the ETF structure, offering benefits such as greater flexibility, transparency, and tax efficiency. This move reflects JPMorgan's continued push to expand its ETF lineup amid broader industry trends favoring ETF conversions. JPM shares fell 4.14% to $302.16 on the day of the announcement.",
+ "usage": {
+  "input": 450,
+  "output": 241,
+  "stop_reason": "end_turn"
+ }
+}

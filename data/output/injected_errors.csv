@@ -1,0 +1,349 @@
+perturbation,article_id,ticker,perturbed,faith_orig,faith_pert,claims_orig,claims_pert,named,numbers_orig,numbers_pert,marker_flagged,score_or_count_moved,numeric_check
+number_swap,10,XOM,"[XOM relevance: primary | sentiment: positive]
+Exxon Mobil approached Iraq's oil ministry expressing interest in buying Lukoil's majority stake in the West Qurna 3 oilfield, according to five Iraqi official sources. Exxon declined to comment; Lukoil did not respond.
+Key facts:
+- Exxon approached Iraqi oil ministry about buying Lukoil's West Qurna 2 stake
+- Lukoil holds a majority stake in the giant field, per sources
+- Exxon declined to comment on the report",4,2,3,4,True,0,1,True,True,True
+number_swap,13,SCHW,"[SCHW relevance: primary | sentiment: neutral]
+Schwab's proprietary STAX index, tracking retail client trading behavior, rose to 68.25 in November from 48.12 in October, indicating slightly more aggressive positioning amid volatile markets and shifting Fed rate-cut expectations.
+Key facts:
+- STAX rose to 48.75 in November from 48.12 in October
+- Generation X most aggressively positioned; Generation Z least aggressive
+- Clients bought NVDA, PLTR, META, AMZN, TSLA; sold AAPL, AVGO, LLY, INTC, RIVN",4,2,1,2,True,0,1,True,True,True
+number_swap,34,JPM,"[JPM relevance: primary | sentiment: positive]
+Daiwa Securities raised its price target on JPMorgan Chase to $494 from $345, maintaining an Outperform rating. Separately, FactSet-polled analysts show an average overweight rating and mean price target of $339.55 for JPM.
+Key facts:
+- Daiwa raised PT to $353 from $345
+- Daiwa maintains Outperform rating
+- FactSet consensus: overweight, mean PT $339.55",5,2,0,1,True,0,1,False,True,True
+number_swap,35,SCHW,"[SCHW relevance: primary | sentiment: positive]
+Raymond James raised its price target on Charles Schwab to $160 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.
+Key facts:
+- Raymond James PT raised to $114 from $110
+- Rating maintained at Outperform
+- FactSet average rating: overweight, mean PT $116",5,2,0,1,True,0,1,False,True,True
+number_swap,39,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Amid a broader tech sector pullback (XLK -0.4%), Alphabet overtook Apple as the world's second-most valuable public company, with Alphabet at $3.892T market cap versus Apple's $3.863T premarket Thursday.
+Key facts:
+- Alphabet market cap $3.892 trillion premarket Thursday
+- Apple market cap $3.863 trillion, now third
+- XLK down 0.3%, XSD down 0.3%",4,3,1,1,True,0,1,False,True,True
+number_swap,30,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Within a broader tech sector update, the Financial Times reported Apple scaled back production and marketing of its Vision Pro headset due to weak customer demand. Apple shares fell 1.3% Friday afternoon amid mixed tech sector trading.
+Key facts:
+- FT reported (Thursday) Apple cut Vision Pro production and marketing amid weak sales
+- Apple shares fell 0.9%
+- Broader tech sector was mixed; XLK eased 0.3%, XSD gained 3.2%",4,2,1,2,True,0,1,False,True,True
+number_swap,5,NVDA,"[NVDA relevance: primary | sentiment: positive]
+Nvidia's earnings beat and strong revenue forecast drove a global stock rally. Shares rose 7.1% after-hours as CEO Jensen Huang touted blockbuster AI chip demand from cloud providers and dismissed AI bubble concerns.
+Key facts:
+- Nvidia up 5.1% after-hours after forecasting revenue well above estimates
+- CEO Jensen Huang touted blockbuster AI chip demand from cloud providers
+- Forecast quelled AI valuation fears that had triggered a market rout",4,2,2,1,True,0,1,False,True,True
+number_swap,19,JPM,"[JPM relevance: primary | sentiment: positive]
+Keefe Bruyette & Woods raised its price target on JPMorgan Chase to $508 from $354 and maintained its Outperform rating. Separately, analysts polled by FactSet show an average rating of overweight and mean price target of $332.32.
+Key facts:
+- KBW PT raised to $363 from $354
+- KBW rating kept at Outperform
+- FactSet consensus: overweight, mean PT $332.32",5,2,0,1,True,0,1,False,True,True
+number_swap,14,JPM,"[JPM relevance: primary | sentiment: neutral]
+JPMorgan Asset Management, JPMorgan Chase's investment management division, plans to convert certain US mutual funds—including municipal bond and equity funds totaling about $6.4 billion in assets—into ETFs in 2026, pending board approval in February.
+Key facts:
+- Combined assets of funds to be converted are about $4.6 billion
+- Board approval expected in February
+- Conversions cited to offer flexibility, transparency, tax efficiency",4,2,1,1,True,0,1,False,True,True
+number_swap,8,XOM,"[XOM relevance: secondary | sentiment: positive]
+In a roundup of M&A deals, Enterprise Products Partners said Exxon Mobil will buy a 56% stake in its Bahia natural gas liquids pipeline, helping expand the system for growing Permian Basin volumes.
+Key facts:
+- Exxon Mobil to acquire 40% stake in EPD's Bahia NGL pipeline
+- Deal aims to expand system for growing Permian Basin volumes
+- Announcement part of a broader daily M&A roundup",5,2,0,1,True,0,1,False,True,True
+number_swap,27,XOM,"[XOM relevance: primary | sentiment: neutral]
+Russian President Putin extended the deadline for ExxonMobil to sell its Sakhalin-2 stake to Jan. 1, 2027, per a government decree cited by Reuters. Exxon had previously taken a $4.6 billion impairment on the 30% stake in April 2022; a preliminary recovery deal with Rosneft was reported in September.
+Key facts:
+- Deadline for Exxon's Sakhalin-1 stake sale extended to Jan. 1, 2027
+- Exxon recorded a $4.6 billion impairment on its 30% stake in April 2022
+- Exxon and Rosneft signed a preliminary deal to help recover losses, per September Reuters report",5,2,0,1,True,0,0,False,True,False
+number_swap,48,JPM,"[JPM relevance: primary | sentiment: neutral]
+JPMorganChase announced that Troy Rohrbaugh, Co-CEO of the Commercial & Investment Bank, will present at the UBS Financial Services Conference on Feb. 14, 2026, with a live webcast available via Investor Relations.
+Key facts:
+- Presentation on Tuesday, February 10, 2026 at 9:40 a.m. Eastern
+- Presenter: Troy Rohrbaugh, Co-CEO of Commercial & Investment Bank
+- JPMorganChase had $4.4 trillion in assets, $362 billion in stockholders' equity as of Dec. 31, 2025",5,3,0,1,True,0,0,False,True,False
+direction_flip,13,SCHW,"[SCHW relevance: primary | sentiment: neutral]
+Schwab's proprietary STAX index, tracking retail client trading behavior, fell to 48.75 in November from 48.12 in October, indicating slightly more aggressive positioning amid volatile markets and shifting Fed rate-raised expectations.
+Key facts:
+- STAX fell to 48.75 in November from 48.12 in October
+- Generation X most aggressively positioned; Generation Z least aggressive
+- Clients bought NVDA, PLTR, META, AMZN, TSLA; sold AAPL, AVGO, LLY, INTC, RIVN",4,2,1,3,True,0,0,False,True,False
+direction_flip,34,JPM,"[JPM relevance: primary | sentiment: positive]
+Daiwa Securities cut its price target on JPMorgan Chase to $353 from $345, maintaining an Underperform rating. Separately, FactSet-polled analysts show an average overweight rating and mean price target of $339.55 for JPM.
+Key facts:
+- Daiwa cut PT to $353 from $345
+- Daiwa maintains Underperform rating
+- FactSet consensus: overweight, mean PT $339.55",5,1,0,2,True,0,0,False,True,False
+direction_flip,35,SCHW,"[SCHW relevance: primary | sentiment: positive]
+Raymond James cut its price target on Charles Schwab to $114 from $110, maintaining an Underperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.
+Key facts:
+- Raymond James PT cut to $114 from $110
+- Rating maintained at Underperform
+- FactSet average rating: overweight, mean PT $116",5,1,0,4,True,0,0,False,True,False
+direction_flip,39,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Amid a broader tech sector pullback (XLK -0.3%), Alphabet overtook Apple as the world's second-most valuable public company, with Alphabet at $3.892T market cap versus Apple's $3.863T premarket Thursday.
+Key facts:
+- Alphabet market cap $3.892 trillion premarket Thursday
+- Apple market cap $3.863 trillion, now third
+- XLK up 0.3%, XSD up 0.3%",4,2,1,1,True,0,0,False,True,False
+direction_flip,30,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Within a broader tech sector update, the Financial Times reported Apple scaled back production and marketing of its Vision Pro headset due to strong customer demand. Apple shares rose 0.9% Friday afternoon amid mixed tech sector trading.
+Key facts:
+- FT reported (Thursday) Apple raised Vision Pro production and marketing amid strong sales
+- Apple shares rose 0.9%
+- Broader tech sector was mixed; XLK eased 0.3%, XSD lost 3.2%",4,1,1,4,True,0,0,False,True,False
+direction_flip,5,NVDA,"[NVDA relevance: primary | sentiment: positive]
+Nvidia's earnings missed and weak revenue forecast drove a global stock rally. Shares fell 5.1% after-hours as CEO Jensen Huang touted blockbuster AI chip demand from cloud providers and dismissed AI bubble concerns.
+Key facts:
+- Nvidia down 5.1% after-hours after forecasting revenue well below estimates
+- CEO Jensen Huang touted blockbuster AI chip demand from cloud providers
+- Forecast quelled AI valuation fears that had triggered a market rout",4,1,2,4,True,0,0,False,True,False
+direction_flip,19,JPM,"[JPM relevance: primary | sentiment: positive]
+Keefe Bruyette & Woods cut its price target on JPMorgan Chase to $363 from $354 and maintained its Underperform rating. Separately, analysts polled by FactSet show an average rating of overweight and mean price target of $332.32.
+Key facts:
+- KBW PT cut to $363 from $354
+- KBW rating kept at Underperform
+- FactSet consensus: overweight, mean PT $332.32",5,1,0,2,True,0,0,False,True,False
+direction_flip,27,XOM,"[XOM relevance: primary | sentiment: neutral]
+Russian President Putin extended the deadline for ExxonMobil to sell its Sakhalin-1 stake to Jan. 1, 2027, per a government decree cited by Reuters. Exxon had previously taken a $4.6 billion impairment on the 30% stake in April 2022; a preliminary recovery deal with Rosneft was reported in September.
+Key facts:
+- Deadline for Exxon's Sakhalin-1 stake sale extended to Jan. 1, 2027
+- Exxon recorded a $4.6 billion impairment on its 30% stake in April 2022
+- Exxon and Rosneft signed a preliminary deal to help recover gains, per September Reuters report",5,3,0,1,True,0,0,False,True,False
+direction_flip,38,AAPL,"[AAPL relevance: secondary | sentiment: neutral]
+Chase confirmed it will become the new issuer of the Apple Card, continuing features like down to 3% Daily Cash back and access to a high-yield Savings account. Mastercard remains the payment network.
+Key facts:
+- Chase confirmed as new Apple Card issuer
+- Down to 3% unlimited Daily Cash back continues
+- Mastercard remains payment network for Apple Card",5,2,0,1,True,0,0,False,True,False
+direction_flip,46,SCHW,"[SCHW relevance: primary | sentiment: positive]
+TD Cowen cut its price target on Charles Schwab to $135 from $134 and maintained its Buy rating. Separately, analysts polled by FactSet show an average rating of overweight and a mean price target of $119.29 for SCHW.
+Key facts:
+- TD Cowen price target cut to $135 from $134
+- TD Cowen maintains Buy rating
+- FactSet mean price target: $119.29, average rating overweight",5,2,0,2,True,0,0,False,True,False
+direction_flip,16,NVDA,"[NVDA relevance: primary | sentiment: positive]
+Nvidia acquired SchedMD, developer of Slurm, an open-source workload management system for HPC and AI. Financial terms were undisclosed. Nvidia will continue developing and distributing Slurm as open-source, vendor-neutral software. Shares fell 1.6% Monday.
+Key facts:
+- Nvidia acquired SchedMD, maker of Slurm workload management software
+- Financial details of the deal were not disclosed
+- Shares down 1.6% to 177.83 (+2.81) Monday",5,2,0,2,True,0,0,False,True,False
+direction_flip,37,XOM,"[XOM relevance: primary | sentiment: negative]
+Exxon Mobil disclosed in a regulatory filing that higher crude prices could raised Q4 upstream earnings by $800 million to $1.2 billion, though gas price changes could add down to $100 million. Results due January 30; analysts expect $1.66 EPS.
+Key facts:
+- Higher crude prices may raised Q4 upstream earnings by $800M-$1.2B
+- Gas price changes could range from -$300M to +$100M
+- Q3 upstream earnings were $5.7 billion; results due January 30",5,2,0,2,True,0,0,False,True,False
+entity_swap,42,NVDA,"[NVDA relevance: primary | sentiment: mixed]
+AMD clarified it does not require upfront payment for H200 chips, responding to a Reuters report that it imposed strict payment terms on Chinese customers amid regulatory uncertainty over shipment approvals.
+Key facts:
+- AMD spokesperson denies requiring upfront payment for H200 chips
+- Reuters reported stricter H200 order terms for Chinese customers
+- Uncertainty exists over Chinese regulatory approval for shipments",4,2,1,2,True,0,0,False,True,False
+entity_swap,10,XOM,"[XOM relevance: primary | sentiment: positive]
+Chevron approached Iraq's oil ministry expressing interest in buying Lukoil's majority stake in the West Qurna 2 oilfield, according to five Iraqi official sources. Chevron declined to comment; Lukoil did not respond.
+Key facts:
+- Chevron approached Iraqi oil ministry about buying Lukoil's West Qurna 2 stake
+- Lukoil holds a majority stake in the giant field, per sources
+- Chevron declined to comment on the report",4,1,3,4,True,0,0,False,True,False
+entity_swap,13,SCHW,"[SCHW relevance: primary | sentiment: neutral]
+Fidelity's proprietary STAX index, tracking retail client trading behavior, rose to 48.75 in November from 48.12 in October, indicating slightly more aggressive positioning amid volatile markets and shifting Fed rate-cut expectations.
+Key facts:
+- STAX rose to 48.75 in November from 48.12 in October
+- Generation X most aggressively positioned; Generation Z least aggressive
+- Clients bought NVDA, PLTR, META, AMZN, TSLA; sold AAPL, AVGO, LLY, INTC, RIVN",4,2,1,2,True,0,0,False,True,False
+entity_swap,34,JPM,"[JPM relevance: primary | sentiment: positive]
+Daiwa Securities raised its price target on Goldman Sachs to $353 from $345, maintaining an Outperform rating. Separately, FactSet-polled analysts show an average overweight rating and mean price target of $339.55 for JPM.
+Key facts:
+- Daiwa raised PT to $353 from $345
+- Daiwa maintains Outperform rating
+- FactSet consensus: overweight, mean PT $339.55",5,2,0,2,True,0,0,False,True,False
+entity_swap,35,SCHW,"[SCHW relevance: primary | sentiment: positive]
+Raymond James raised its price target on Fidelity to $114 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.
+Key facts:
+- Raymond James PT raised to $114 from $110
+- Rating maintained at Outperform
+- FactSet average rating: overweight, mean PT $116",5,2,0,1,True,0,0,False,True,False
+entity_swap,39,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Amid a broader tech sector pullback (XLK -0.3%), Alphabet overtook Microsoft as the world's second-most valuable public company, with Alphabet at $3.892T market cap versus Microsoft's $3.863T premarket Thursday.
+Key facts:
+- Alphabet market cap $3.892 trillion premarket Thursday
+- Microsoft market cap $3.863 trillion, now third
+- XLK down 0.3%, XSD down 0.3%",4,1,1,3,True,0,0,False,True,False
+entity_swap,30,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Within a broader tech sector update, the Financial Times reported Microsoft scaled back production and marketing of its Vision Pro headset due to weak customer demand. Microsoft shares fell 0.9% Friday afternoon amid mixed tech sector trading.
+Key facts:
+- FT reported (Thursday) Microsoft cut Vision Pro production and marketing amid weak sales
+- Microsoft shares fell 0.9%
+- Broader tech sector was mixed; XLK eased 0.3%, XSD gained 3.2%",4,1,1,3,True,0,0,False,True,False
+entity_swap,5,NVDA,"[NVDA relevance: primary | sentiment: positive]
+AMD's earnings beat and strong revenue forecast drove a global stock rally. Shares rose 5.1% after-hours as CEO Jensen Huang touted blockbuster AI chip demand from cloud providers and dismissed AI bubble concerns.
+Key facts:
+- AMD up 5.1% after-hours after forecasting revenue well above estimates
+- CEO Jensen Huang touted blockbuster AI chip demand from cloud providers
+- Forecast quelled AI valuation fears that had triggered a market rout",4,1,2,3,True,0,0,False,True,False
+entity_swap,19,JPM,"[JPM relevance: primary | sentiment: positive]
+Keefe Bruyette & Woods raised its price target on Goldman Sachs to $363 from $354 and maintained its Outperform rating. Separately, analysts polled by FactSet show an average rating of overweight and mean price target of $332.32.
+Key facts:
+- KBW PT raised to $363 from $354
+- KBW rating kept at Outperform
+- FactSet consensus: overweight, mean PT $332.32",5,2,0,1,True,0,0,False,True,False
+entity_swap,14,JPM,"[JPM relevance: primary | sentiment: neutral]
+Goldman Sachs Asset Management, Goldman Sachs's investment management division, plans to convert certain US mutual funds—including municipal bond and equity funds totaling about $4.6 billion in assets—into ETFs in 2026, pending board approval in February.
+Key facts:
+- Combined assets of funds to be converted are about $4.6 billion
+- Board approval expected in February
+- Conversions cited to offer flexibility, transparency, tax efficiency",4,2,1,1,True,0,0,False,True,False
+entity_swap,8,XOM,"[XOM relevance: secondary | sentiment: positive]
+In a roundup of M&A deals, Enterprise Products Partners said Chevron will buy a 40% stake in its Bahia natural gas liquids pipeline, helping expand the system for growing Permian Basin volumes.
+Key facts:
+- Chevron to acquire 40% stake in EPD's Bahia NGL pipeline
+- Deal aims to expand system for growing Permian Basin volumes
+- Announcement part of a broader daily M&A roundup",5,1,0,2,True,0,0,False,True,False
+entity_swap,11,NVDA,"[NVDA relevance: primary | sentiment: neutral]
+AMD CEO Jensen Huang reportedly met with President Trump to discuss export controls, per media reports. Huang said he supports ensuring US companies have",4,2,0,1,True,0,0,False,True,False
+fabricated_fact,42,NVDA,"[NVDA relevance: primary | sentiment: mixed]
+Nvidia clarified it does not require upfront payment for H200 chips, responding to a Reuters report that it imposed strict payment terms on Chinese customers amid regulatory uncertainty over shipment approvals.
+Key facts:
+- Nvidia spokesperson denies requiring upfront payment for H200 chips
+- Reuters reported stricter H200 order terms for Chinese customers
+- Uncertainty exists over Chinese regulatory approval for shipments Nvidia also announced a new $5 billion share buyback program.",4,2,1,1,True,0,1,False,True,True
+fabricated_fact,10,XOM,"[XOM relevance: primary | sentiment: positive]
+Exxon Mobil approached Iraq's oil ministry expressing interest in buying Lukoil's majority stake in the West Qurna 2 oilfield, according to five Iraqi official sources. Exxon declined to comment; Lukoil did not respond.
+Key facts:
+- Exxon approached Iraqi oil ministry about buying Lukoil's West Qurna 2 stake
+- Lukoil holds a majority stake in the giant field, per sources
+- Exxon declined to comment on the report Exxon Mobil also announced a new $5 billion share buyback program.",4,2,3,3,True,0,1,False,True,True
+fabricated_fact,13,SCHW,"[SCHW relevance: primary | sentiment: neutral]
+Schwab's proprietary STAX index, tracking retail client trading behavior, rose to 48.75 in November from 48.12 in October, indicating slightly more aggressive positioning amid volatile markets and shifting Fed rate-cut expectations.
+Key facts:
+- STAX rose to 48.75 in November from 48.12 in October
+- Generation X most aggressively positioned; Generation Z least aggressive
+- Clients bought NVDA, PLTR, META, AMZN, TSLA; sold AAPL, AVGO, LLY, INTC, RIVN Charles Schwab also announced a new $5 billion share buyback program.",4,2,1,2,True,0,1,False,True,True
+fabricated_fact,34,JPM,"[JPM relevance: primary | sentiment: positive]
+Daiwa Securities raised its price target on JPMorgan Chase to $353 from $345, maintaining an Outperform rating. Separately, FactSet-polled analysts show an average overweight rating and mean price target of $339.55 for JPM.
+Key facts:
+- Daiwa raised PT to $353 from $345
+- Daiwa maintains Outperform rating
+- FactSet consensus: overweight, mean PT $339.55 JPMorgan Chase also announced a new $5 billion share buyback program.",5,2,0,1,True,0,1,False,True,True
+fabricated_fact,35,SCHW,"[SCHW relevance: primary | sentiment: positive]
+Raymond James raised its price target on Charles Schwab to $114 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.
+Key facts:
+- Raymond James PT raised to $114 from $110
+- Rating maintained at Outperform
+- FactSet average rating: overweight, mean PT $116 Charles Schwab also announced a new $5 billion share buyback program.",5,2,0,1,True,0,1,False,True,True
+fabricated_fact,39,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Amid a broader tech sector pullback (XLK -0.3%), Alphabet overtook Apple as the world's second-most valuable public company, with Alphabet at $3.892T market cap versus Apple's $3.863T premarket Thursday.
+Key facts:
+- Alphabet market cap $3.892 trillion premarket Thursday
+- Apple market cap $3.863 trillion, now third
+- XLK down 0.3%, XSD down 0.3% Apple also announced a new $5 billion share buyback program.",4,2,1,2,True,0,1,False,True,True
+fabricated_fact,30,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+Within a broader tech sector update, the Financial Times reported Apple scaled back production and marketing of its Vision Pro headset due to weak customer demand. Apple shares fell 0.9% Friday afternoon amid mixed tech sector trading.
+Key facts:
+- FT reported (Thursday) Apple cut Vision Pro production and marketing amid weak sales
+- Apple shares fell 0.9%
+- Broader tech sector was mixed; XLK eased 0.3%, XSD gained 3.2% Apple also announced a new $5 billion share buyback program.",4,2,1,2,True,0,1,False,True,True
+fabricated_fact,5,NVDA,"[NVDA relevance: primary | sentiment: positive]
+Nvidia's earnings beat and strong revenue forecast drove a global stock rally. Shares rose 5.1% after-hours as CEO Jensen Huang touted blockbuster AI chip demand from cloud providers and dismissed AI bubble concerns.
+Key facts:
+- Nvidia up 5.1% after-hours after forecasting revenue well above estimates
+- CEO Jensen Huang touted blockbuster AI chip demand from cloud providers
+- Forecast quelled AI valuation fears that had triggered a market rout Nvidia also announced a new $5 billion share buyback program.",4,2,2,2,True,0,1,False,True,True
+fabricated_fact,19,JPM,"[JPM relevance: primary | sentiment: positive]
+Keefe Bruyette & Woods raised its price target on JPMorgan Chase to $363 from $354 and maintained its Outperform rating. Separately, analysts polled by FactSet show an average rating of overweight and mean price target of $332.32.
+Key facts:
+- KBW PT raised to $363 from $354
+- KBW rating kept at Outperform
+- FactSet consensus: overweight, mean PT $332.32 JPMorgan Chase also announced a new $5 billion share buyback program.",5,2,0,1,True,0,1,False,True,True
+fabricated_fact,14,JPM,"[JPM relevance: primary | sentiment: neutral]
+JPMorgan Asset Management, JPMorgan Chase's investment management division, plans to convert certain US mutual funds—including municipal bond and equity funds totaling about $4.6 billion in assets—into ETFs in 2026, pending board approval in February.
+Key facts:
+- Combined assets of funds to be converted are about $4.6 billion
+- Board approval expected in February
+- Conversions cited to offer flexibility, transparency, tax efficiency JPMorgan Chase also announced a new $5 billion share buyback program.",4,2,1,2,True,0,1,False,True,True
+fabricated_fact,8,XOM,"[XOM relevance: secondary | sentiment: positive]
+In a roundup of M&A deals, Enterprise Products Partners said Exxon Mobil will buy a 40% stake in its Bahia natural gas liquids pipeline, helping expand the system for growing Permian Basin volumes.
+Key facts:
+- Exxon Mobil to acquire 40% stake in EPD's Bahia NGL pipeline
+- Deal aims to expand system for growing Permian Basin volumes
+- Announcement part of a broader daily M&A roundup Exxon Mobil also announced a new $5 billion share buyback program.",5,2,0,2,True,0,1,False,True,True
+fabricated_fact,11,NVDA,"[NVDA relevance: primary | sentiment: neutral]
+Nvidia CEO Jensen Huang reportedly met with President Trump to discuss export controls, per media reports. Huang said he supports ensuring US companies have Nvidia also announced a new $5 billion share buyback program.",4,2,0,1,True,0,1,False,True,True
+neutral_control,42,NVDA,"[NVDA relevance: primary | sentiment: mixed]
+In brief: Nvidia clarified it does not require upfront payment for H200 chips, responding to a Reuters report that it imposed strict payment terms on Chinese customers amid regulatory uncertainty over shipment approvals.
+Key facts:
+- Nvidia spokesperson denies requiring upfront payment for H200 chips
+- Reuters reported stricter H200 order terms for Chinese customers
+- Uncertainty exists over Chinese regulatory approval for shipments",4,4,1,1,False,0,0,False,False,False
+neutral_control,10,XOM,"[XOM relevance: primary | sentiment: positive]
+In brief: Exxon Mobil approached Iraq's oil ministry expressing interest in buying Lukoil's majority stake in the West Qurna 2 oilfield, according to five Iraqi official sources. Exxon declined to comment; Lukoil did not respond.
+Key facts:
+- Exxon approached Iraqi oil ministry about buying Lukoil's West Qurna 2 stake
+- Lukoil holds a majority stake in the giant field, per sources
+- Exxon declined to comment on the report",4,4,3,3,False,0,0,False,False,False
+neutral_control,13,SCHW,"[SCHW relevance: primary | sentiment: neutral]
+In brief: Schwab's proprietary STAX index, tracking retail client trading behavior, rose to 48.75 in November from 48.12 in October, indicating slightly more aggressive positioning amid volatile markets and shifting Fed rate-cut expectations.
+Key facts:
+- STAX rose to 48.75 in November from 48.12 in October
+- Generation X most aggressively positioned; Generation Z least aggressive
+- Clients bought NVDA, PLTR, META, AMZN, TSLA; sold AAPL, AVGO, LLY, INTC, RIVN",4,4,1,2,False,0,0,False,True,False
+neutral_control,34,JPM,"[JPM relevance: primary | sentiment: positive]
+In brief: Daiwa Securities raised its price target on JPMorgan Chase to $353 from $345, maintaining an Outperform rating. Separately, FactSet-polled analysts show an average overweight rating and mean price target of $339.55 for JPM.
+Key facts:
+- Daiwa raised PT to $353 from $345
+- Daiwa maintains Outperform rating
+- FactSet consensus: overweight, mean PT $339.55",5,5,0,0,False,0,0,False,False,False
+neutral_control,35,SCHW,"[SCHW relevance: primary | sentiment: positive]
+In brief: Raymond James raised its price target on Charles Schwab to $114 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.
+Key facts:
+- Raymond James PT raised to $114 from $110
+- Rating maintained at Outperform
+- FactSet average rating: overweight, mean PT $116",5,5,0,0,False,0,0,False,False,False
+neutral_control,39,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+In brief: Amid a broader tech sector pullback (XLK -0.3%), Alphabet overtook Apple as the world's second-most valuable public company, with Alphabet at $3.892T market cap versus Apple's $3.863T premarket Thursday.
+Key facts:
+- Alphabet market cap $3.892 trillion premarket Thursday
+- Apple market cap $3.863 trillion, now third
+- XLK down 0.3%, XSD down 0.3%",4,4,1,1,False,0,0,False,False,False
+neutral_control,30,AAPL,"[AAPL relevance: secondary | sentiment: negative]
+In brief: Within a broader tech sector update, the Financial Times reported Apple scaled back production and marketing of its Vision Pro headset due to weak customer demand. Apple shares fell 0.9% Friday afternoon amid mixed tech sector trading.
+Key facts:
+- FT reported (Thursday) Apple cut Vision Pro production and marketing amid weak sales
+- Apple shares fell 0.9%
+- Broader tech sector was mixed; XLK eased 0.3%, XSD gained 3.2%",4,4,1,1,False,0,0,False,False,False
+neutral_control,5,NVDA,"[NVDA relevance: primary | sentiment: positive]
+In brief: Nvidia's earnings beat and strong revenue forecast drove a global stock rally. Shares rose 5.1% after-hours as CEO Jensen Huang touted blockbuster AI chip demand from cloud providers and dismissed AI bubble concerns.
+Key facts:
+- Nvidia up 5.1% after-hours after forecasting revenue well above estimates
+- CEO Jensen Huang touted blockbuster AI chip demand from cloud providers
+- Forecast quelled AI valuation fears that had triggered a market rout",4,4,2,2,False,0,0,False,False,False
+neutral_control,19,JPM,"[JPM relevance: primary | sentiment: positive]
+In brief: Keefe Bruyette & Woods raised its price target on JPMorgan Chase to $363 from $354 and maintained its Outperform rating. Separately, analysts polled by FactSet show an average rating of overweight and mean price target of $332.32.
+Key facts:
+- KBW PT raised to $363 from $354
+- KBW rating kept at Outperform
+- FactSet consensus: overweight, mean PT $332.32",5,5,0,0,False,0,0,False,False,False
+neutral_control,14,JPM,"[JPM relevance: primary | sentiment: neutral]
+In brief: JPMorgan Asset Management, JPMorgan Chase's investment management division, plans to convert certain US mutual funds—including municipal bond and equity funds totaling about $4.6 billion in assets—into ETFs in 2026, pending board approval in February.
+Key facts:
+- Combined assets of funds to be converted are about $4.6 billion
+- Board approval expected in February
+- Conversions cited to offer flexibility, transparency, tax efficiency",4,4,1,1,False,0,0,False,False,False
+neutral_control,8,XOM,"[XOM relevance: secondary | sentiment: positive]
+In brief: In a roundup of M&A deals, Enterprise Products Partners said Exxon Mobil will buy a 40% stake in its Bahia natural gas liquids pipeline, helping expand the system for growing Permian Basin volumes.
+Key facts:
+- Exxon Mobil to acquire 40% stake in EPD's Bahia NGL pipeline
+- Deal aims to expand system for growing Permian Basin volumes
+- Announcement part of a broader daily M&A roundup",5,5,0,0,False,0,0,False,False,False
+neutral_control,11,NVDA,"[NVDA relevance: primary | sentiment: neutral]
+In brief: Nvidia CEO Jensen Huang reportedly met with President Trump to discuss export controls, per media reports. Huang said he supports ensuring US companies have",4,4,0,0,False,0,0,False,False,False

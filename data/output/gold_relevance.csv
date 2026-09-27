@@ -1,0 +1,50 @@
+article_id,gold_relevance,gold_note,ticker
+1,peripheral,Nikkei market wrap; Nvidia only mentioned as upcoming earnings catalyst,NVDA
+5,secondary,Asia market wrap driven by Nvidia earnings beat and guidance,NVDA
+6,primary,Nvidia Q3 results; customer concentration; bubble debate,NVDA
+7,secondary,US futures wrap; Nvidia premarket move and guidance are the lead driver,NVDA
+9,primary,Headline only: NVDA reversed to -2.8% after earnings gap-up,NVDA
+11,primary,Huang meets Trump on export controls,NVDA
+16,primary,Nvidia acquires SchedMD (Slurm),NVDA
+21,peripheral,US market wrap on Oracle funding worries; Nvidia -1.8% in one sentence,NVDA
+29,none,Asian EM wrap on AI-driven tech rally; Nvidia never mentioned,NVDA
+42,primary,Nvidia denies requiring upfront payment for H200 chips in China,NVDA
+2,peripheral,Saba sells Big Tech CDS; JPMorgan only named via the London Whale reference,JPM
+14,primary,JPMorgan Asset Management converting ~$4.6B of mutual funds to ETFs,JPM
+19,primary,KBW raises JPM PT to $363 (headline); body is FactSet consensus boilerplate,JPM
+28,secondary,Headline only: JPM among 8 banks at 52-week highs,JPM
+34,primary,Daiwa raises JPM PT to $353 (headline); body is FactSet consensus boilerplate,JPM
+43,primary,JPM Q4 profit falls on one-time Apple Card charge; ex-charge EPS $5.23,JPM
+44,primary,"JPM 2026 guidance: NII ~$103B, expenses ~$105B",JPM
+45,peripheral,US futures ahead of bank earnings; one sentence on JPM executives' card-cap warning,JPM
+47,peripheral,US market close; banks fall; one sentence on JPM executives' card-cap warning,JPM
+48,primary,Event notice: JPM co-CEO to present at UBS conference (low materiality),JPM
+3,primary,Golden Pass LNG (30% Exxon) targets first cargo in February,XOM
+4,primary,Exxon considering bids for Lukoil assets in Kazakhstan and Iraq,XOM
+8,secondary,M&A roundup; one item is Exxon buying 40% of Enterprise's Bahia NGL pipeline,XOM
+10,primary,Exxon approached Iraq about Lukoil's West Qurna 2 stake,XOM
+17,peripheral,Treasury rejects Xtellus bid for Lukoil; Exxon listed as a remaining bidder,XOM
+18,peripheral,"Energy sector briefing; XOM one line (-2.2%, below 50-day MA)",XOM
+27,primary,Putin extends Exxon's Sakhalin-1 stake sale deadline to Jan 2027,XOM
+37,primary,Exxon flags $0.8-1.2B Q4 upstream earnings hit from lower oil prices,XOM
+40,primary,Trump inclined to keep Exxon out of Venezuela after CEO calls it uninvestable,XOM
+41,none,Lukoil asset frontrunners are Carlyle / Chevron-Quantum / IHC; Exxon never mentioned,XOM
+12,none,Headline only: Trump to issue AI executive order; Apple not mentioned,AAPL
+15,peripheral,PAR Technology product launch; Apple Wallet named as a channel,AAPL
+22,primary,Apple changes iOS in Japan to comply with competition law,AAPL
+23,primary,Apple to expand App Store search ads in 2026,AAPL
+24,primary,Italy fines Apple ~EUR 98.6M over App Tracking Transparency,AAPL
+30,secondary,"Tech sector update; Apple scaled back Vision Pro, shares -0.9%",AAPL
+31,primary,Headline only: Apple names new Principal Accounting Officer,AAPL
+38,primary,Chase becomes new Apple Card issuer; Mastercard remains network,AAPL
+39,secondary,Tech premarket; Alphabet overtakes Apple in market cap,AAPL
+49,primary,India antitrust probe of Apple App Store to continue; potential fine up to $38B,AAPL
+13,primary,Schwab Trading Activity Index rose to 48.75 in November,SCHW
+20,primary,Deutsche Bank raises SCHW PT to $128 (headline); body is FactSet consensus boilerplate,SCHW
+25,peripheral,Research roundup; one line: Morgan Stanley raises SCHW target to $148,SCHW
+26,primary,Headline only: Schwab to match $1000 government contribution for employees' newborns,SCHW
+32,primary,Schwab Trading Activity Index fell to 48.48 in December,SCHW
+33,peripheral,Research roundup; one line: Jefferies raises SCHW target to $121,SCHW
+35,primary,Raymond James raises SCHW PT to $114 (headline); body is FactSet consensus boilerplate,SCHW
+36,primary,Goldman Sachs raises SCHW PT to $116 (headline); body is FactSet consensus boilerplate,SCHW
+46,primary,TD Cowen raises SCHW PT to $135 (headline); body is FactSet consensus boilerplate,SCHW

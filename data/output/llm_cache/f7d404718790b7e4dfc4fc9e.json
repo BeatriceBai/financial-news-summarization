@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Sector Update: Tech Stocks Mixed Friday Afternoon\n\nBODY:\n01:57 PM EST, 01/02/2026 (MT Newswires) -- Tech stocks were mixed Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) easing 0.3% and the State Street SPDR S&P Semiconductor ETF (XSD) gaining 3.2%.\n\nThe Philadelphia Semiconductor index jumped 3.5%.\n\nIn corporate news, Taiwan Semiconductor Manufacturing (TSM) shares rose 5.1% after Reuters reported Wednesday the company received an annual license from the US government to move chip manufacturing equipment to its sites in Nanjing, China.\n\nApple (AAPL) scaled back production and marketing initiatives around its Vision Pro headset amid a failure to attract customers, the Financial Times reported Thursday. Apple shares fell 0.9%.\n\nBaidu (BIDU) shares surged 14%. The company plans to spin off its Kunlunxin chip division and list the unit's shares on the Hong Kong Stock Exchange.",
+ "text": "Tech stocks were mixed Friday, with the broader sector index (XLK) slipping 0.3% while semiconductors outperformed\u2014XSD jumped 3.2% and the Philadelphia Semiconductor index rose 3.5%, partly boosted by TSMC's 5.1% gain after securing a US license for China chip equipment transfers. Apple shares fell 0.9% following a Financial Times report that the company is scaling back production and marketing of its Vision Pro headset due to weak customer demand, signaling continued softness in Apple's mixed-reality ambitions. Meanwhile, Baidu surged 14% on plans to spin off its Kunlunxin chip unit for a Hong Kong listing.",
+ "usage": {
+  "input": 450,
+  "output": 237,
+  "stop_reason": "end_turn"
+ }
+}

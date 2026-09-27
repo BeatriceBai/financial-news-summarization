@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Exxon Mobil (XOM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Market Chatter: Exxon Mobil, QatarEnergy Joint Venture Targets LNG Exports by February\n\nBODY:\n10:06 AM EST, 11/18/2025 (MT Newswires) -- Exxon Mobil's (XOM) Golden Pass LNG joint venture with QatarEnergy is aiming for February to load its first liquefied natural gas cargo, Bloomberg reported Tuesday, citing people familiar with the matter.\n\nThe target date could change due to the complexity of LNG production at export facilities, according to the report. Exxon said previously that Golden Pass was targeting the end of the year for its first LNG production, Bloomberg said.\n\nQatarEnergy owns 70% of Golden Pass LNG, while Exxon Mobil owns 30%.\n\nExxon Mobil did not immediately respond to a request for comment from MT Newswires.\n\n(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)\n\nPrice: 117.51, Change: -0.18, Percent Change: -0.15",
+ "text": "Exxon Mobil's Golden Pass LNG joint venture with QatarEnergy\u2014owned 70% by QatarEnergy and 30% by Exxon\u2014is now targeting February for its first LNG cargo loading, according to Bloomberg sources. This marks a slip from Exxon's earlier guidance of year-end production start, reflecting the typical complexities of ramping up LNG export facilities. While the timeline could still shift, the project remains a key growth driver for Exxon's LNG portfolio. Exxon has not confirmed the report. Shares were roughly flat, trading at $117.51, down $0.18 (-0.15%).",
+ "usage": {
+  "input": 449,
+  "output": 211,
+  "stop_reason": "end_turn"
+ }
+}

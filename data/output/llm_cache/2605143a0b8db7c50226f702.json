@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Sector Update: Tech\n\nBODY:\n08:56 AM EST, 01/08/2026 (MT Newswires) -- Technology stocks were leaning lower premarket Thursday, with the State Street Technology Select Sector SPDR Fund (XLK) down 0.3% and the State Street SPDR S&P Semiconductor ETF (XSD) declining by 0.3%.\n\nAlphabet (GOOG) shares were up more than 1% pre-bell. Alphabet has become the world's second-most valuable publicly traded company with a market cap of $3.892 trillion in recent premarket activity Thursday, overtaking Apple (AAPL) with $3.863 trillion.",
+ "text": "Apple has slipped to third place among the world's most valuable public companies, as Alphabet's premarket rally pushed its market cap to $3.892 trillion, edging out Apple's $3.863 trillion. This shift occurred amid a broader pullback in tech stocks, with the XLK and XSD ETFs both down 0.3% premarket Thursday. While the overall sector softness reflects modest risk-off sentiment, the more notable development for Apple investors is the narrowing valuation gap with Alphabet, signaling shifting market confidence in AI-driven growth narratives and increased competitive pressure on Apple's premium position among mega-cap tech peers.",
+ "usage": {
+  "input": 292,
+  "output": 218,
+  "stop_reason": "end_turn"
+ }
+}

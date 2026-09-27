@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Market Chatter: Apple Antitrust Probe in India to Continue Despite Delays\n\nBODY:\n07:37 AM EST, 01/15/2026 (MT Newswires) -- Apple (AAPL) has been warned by India that it will continue with an antitrust case against the company by the end of next week if the US tech giant fails to respond to officials investigating its App store, Reuters reported Thursday, citing a confidential Dec. 31 document.\n\nApple is being accused of attempting to undermine the investigation by delaying responses to the inquiry, the report said.\n\nThe commission said Apple has filed numerous requests for extensions since October 2024 instead of answering the allegations, the report said.\n\nApple has said it could be fined as much as $38 billion in the Competition Commission of India case alleging that abused its monopoly position on its App store, the report said.\n\nApple did not immediately reply to MT Newswires' request for comment.\n\n(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)",
+ "text": "India's Competition Commission is moving forward with its antitrust probe into Apple's App Store practices, warning it will proceed by the end of next week regardless of the company's response. Regulators allege Apple has repeatedly sought extensions since October 2024 rather than addressing accusations that it abused its monopoly position on the App Store. Apple has previously disclosed potential exposure of up to $38 billion in fines if found liable. The company has not commented on the report. Investors should monitor this case for potential financial and regulatory risk, as it adds to Apple's growing list of global antitrust challenges affecting App Store revenue and business practices.",
+ "usage": {
+  "input": 426,
+  "output": 205,
+  "stop_reason": "end_turn"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Exxon Mobil (XOM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: EXCLUSIVE-Exxon Mobil approached Iraq about buying Lukoil's West Qurna oilfield stake, sources say\n\nBODY:\nDec 2 (Reuters) - Exxon Mobil has approached the Iraqi oil ministry to express its interest in buying Russian firm Lukoil's majority stake in the giant West Qurna 2 oilfield, five Iraqi official sources with direct knowledge of the matter told Reuters.\n\nExxon declined to comment and Lukoil didn't immediately respond to a Reuters' request for comment on the matter. (Reporting by Ahmed Rasheed and Aref Mohammed Editing by Bernadette Baum)",
+ "text": "Exxon Mobil has reportedly approached Iraq's oil ministry expressing interest in acquiring Lukoil's majority stake in the West Qurna 2 oilfield, according to five Iraqi officials cited by Reuters. This move comes as Lukoil, a Russian firm, may be looking to divest assets amid geopolitical pressures. Neither Exxon nor Lukoil has confirmed the report. If completed, this acquisition could expand Exxon's footprint in Iraq's oil sector, potentially strengthening its position in one of the world's largest oil reserves, though details on valuation, timing, or regulatory hurdles remain unclear at this stage.",
+ "usage": {
+  "input": 302,
+  "output": 223,
+  "stop_reason": "end_turn"
+ }
+}

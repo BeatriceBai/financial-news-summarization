@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "system": "You are a meticulous senior equity research editor. You audit news summaries written for analysts. You are strict about factual accuracy and you do not reward length.",
+ "prompt": "An analyst covering Apple (AAPL) will read ONE of two summaries instead of the article.\nWhich summary serves that analyst better? Judge against the ARTICLE only.\nPriorities, in order: (1) factual accuracy - any unsupported claim is a serious defect;\n(2) usefulness for a AAPL analyst, including representing honestly how relevant the article is to AAPL;\n(3) concision. Ignore formatting differences and do not prefer a summary for being longer.\n\n<article>\nHEADLINE: Apple names Ben Borders as its Principal Accounting Officer, effective January 1\n\nBODY:\n[No article body - headline only]\n</article>\n\n<summary_1>\nApple has appointed Ben Borders as its new Principal Accounting Officer, effective January 1. This leadership change places Borders in a key financial oversight role, responsible for ensuring the accuracy and integrity of Apple's accounting practices and financial reporting. For investors, executive appointments like this signal continuity in corporate governance and financial controls. While no further details on Borders' background or the reasons for this transition were provided, such appointments are routine corporate governance updates that typically do not significantly impact stock valuation but are worth monitoring for any broader organizational changes.\n</summary_1>\n\n<summary_2>\n[AAPL relevance: primary | sentiment: neutral]\nApple named Ben Borders as its Principal Accounting Officer, effective January 1. No further details provided in the headline-only report.\nKey facts:\n- Ben Borders named Principal Accounting Officer\n- Appointment effective January 1\n</summary_2>\n\nReturn only JSON: {\"reason\": \"<= 40 words\", \"winner\": \"1\" | \"2\" | \"tie\"}",
+ "schema": "PairwiseJudgment",
+ "text": "{\"reason\":\"Summary 2 sticks strictly to the headline and flags the missing detail. Summary 1 adds unsupported claims: 'new', 'transition', 'continuity' signals, and a valuation-impact commentary the article does not contain. Summary 2 is also more concise.\",\"winner\":\"2\"}",
+ "usage": {
+  "input": 898,
+  "output": 104,
+  "stop_reason": "end_turn",
+  "structured": true
+ }
+}

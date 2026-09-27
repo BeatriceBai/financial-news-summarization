@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Charles Schwab (SCHW).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: TD Cowen Adjusts Price Target on Charles Schwab to $135 From $134, Maintains Buy Rating\n\nBODY:\n06:07 AM EST, 01/14/2026 (MT Newswires) -- Charles Schwab (SCHW) has an average rating of overweight and mean price target of $119.29, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",
+ "text": "TD Cowen raised its price target on Charles Schwab (SCHW) to $135 from $134 while maintaining its Buy rating, signaling continued confidence in the stock. This modest upward revision comes as analysts polled by FactSet show an average \"overweight\" rating and a mean price target of $119.29\u2014well below TD Cowen's more bullish target. The slight increase suggests incremental optimism about Schwab's near-term prospects, though the divergence between TD Cowen's target and the broader analyst consensus highlights varying views on the stock's valuation among Wall Street firms covering the brokerage and wealth management giant.",
+ "usage": {
+  "input": 257,
+  "output": 205,
+  "stop_reason": "end_turn"
+ }
+}

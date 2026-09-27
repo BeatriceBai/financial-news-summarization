@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: --President Trump Says He Will Issue 'One Rule' Executive Order on AI This Week\n\nBODY:\n08:32 AM EST, 12/08/2025 (MT Newswires) --",
+ "text": "President Trump announced plans to issue an executive order this week establishing a single, unified federal AI regulatory standard, aiming to preempt the current patchwork of state-level AI regulations. For Apple investors, this move could reduce regulatory complexity and compliance costs across state lines for AI-related products and services, including features tied to Apple Intelligence and future AI integrations. A unified national standard may also accelerate innovation timelines by providing clearer, more consistent rules, potentially benefiting Apple's ongoing AI development efforts. However, the ultimate market impact will depend on the order's specific provisions and how they align with Apple's existing AI strategy and compliance framework.",
+ "usage": {
+  "input": 128,
+  "output": 220,
+  "stop_reason": "end_turn"
+ }
+}

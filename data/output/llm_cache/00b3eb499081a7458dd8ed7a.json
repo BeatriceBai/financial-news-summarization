@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "system": "You are a meticulous senior equity research editor. You audit news summaries written for analysts. You are strict about factual accuracy and you do not reward length.",
+ "prompt": "An analyst covering Nvidia (NVDA) will read ONE of two summaries instead of the article.\nWhich summary serves that analyst better? Judge against the ARTICLE only.\nPriorities, in order: (1) factual accuracy - any unsupported claim is a serious defect;\n(2) usefulness for a NVDA analyst, including representing honestly how relevant the article is to NVDA;\n(3) concision. Ignore formatting differences and do not prefer a summary for being longer.\n\n<article>\nHEADLINE: Nvidia CEO Jensen Huang Reportedly Meets Trump to Discuss Export Controls\n\nBODY:\n02:49 PM EST, 12/03/2025 (MT Newswires) -- Nvidia (NVDA) Chief Executive Jensen Huang met with President Donald Trump on Wednesday to discuss export controls, according to media reports.\n\nHuang told reporters on Capitol Hill that he supports ensuring US companies \"have the best, the first and the most,\" Bloomberg reported.\n\nNvidia and the White House did not immediately respond to MT Newswires' request for comment on the matter.\n\nPrice: 180.90, Change: -0.56, Percent Change: -0.31\n</article>\n\n<summary_1>\nNvidia CEO Jensen Huang met with President Trump on Wednesday to discuss export controls, a topic critical to Nvidia's access to key international markets, particularly China. Huang told reporters he supports policies ensuring US companies \"have the best, the first and the most,\" signaling advocacy for favorable export terms. Neither Nvidia nor the White House confirmed details. Investors should watch for potential regulatory shifts affecting Nvidia's chip exports, given the stock's modest dip (-0.31%) to $180.90, as any changes to export controls could materially impact revenue from restricted markets like China.\n</summary_1>\n\n<summary_2>\n[NVDA relevance: primary | sentiment: neutral]\nNvidia CEO Jensen Huang reportedly met with President Trump to discuss export controls, per media reports. Huang said he supports ensuring US companies have\n</summary_2>\n\nReturn only JSON: {\"reason\": \"<= 40 words\", \"winner\": \"1\" | \"2\" | \"tie\"}",
+ "schema": "PairwiseJudgment",
+ "text": "{\"reason\": \"Summary 1 adds unsupported claims (China, restricted markets, material revenue impact, favorable terms) and drops 'reportedly.' Summary 2 is truncated but accurate, keeps the attribution, and correctly flags NVDA relevance. Accuracy outweighs completeness.\", \"winner\": \"2\"}",
+ "usage": {
+  "input": 1078,
+  "output": 254,
+  "stop_reason": "end_turn",
+  "structured": true
+ }
+}

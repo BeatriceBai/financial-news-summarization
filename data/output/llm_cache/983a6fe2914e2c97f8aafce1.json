@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows JPMorgan Chase (JPM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Several banks are trading at new 52-week highs today: BAC, BNS, C, DB, JPM, TD, UBS, WFC\n\nBODY:\n[No article body - headline only]",
+ "text": "Several major banking stocks, including JPMorgan Chase (JPM), reached new 52-week highs in today's trading session. JPM was among a broad group of financial institutions\u2014including Bank of America (BAC), Bank of Nova Scotia (BNS), Citigroup (C), Deutsche Bank (DB), TD Bank (TD), UBS, and Wells Fargo (WFC)\u2014hitting these milestones simultaneously. This sector-wide rally suggests positive momentum across the banking industry, potentially driven by favorable macroeconomic conditions, interest rate expectations, or improved investor sentiment toward financial institutions. For JPM investors, this signals continued strength and market confidence in the stock's performance alongside its peers.",
+ "usage": {
+  "input": 129,
+  "output": 245,
+  "stop_reason": "end_turn"
+ }
+}

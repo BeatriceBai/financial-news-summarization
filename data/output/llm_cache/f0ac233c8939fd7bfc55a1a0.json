@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: PAR Technology Launches Smart Passes Loyalty Tool for Restaurants\n\nBODY:\n08:47 AM EST, 12/11/2025 (MT Newswires) -- PAR Technology (PAR) said Thursday it launched Smart Passes, a loyalty product that lets restaurant brands use the digital wallet platforms of Alphabet's (GOOG, GOOGL) Google and Apple (AAPL) as a real-time rewards channel.\n\nSmart Passes is integrated into the Punchh loyalty platform and lets restaurants sign up guests and send updates of points, perks, and offers, the company said.\n\nSmart Passes is already available to restaurant brands, and a related feature called Offer Passes is planned for launch in Q1 2026, PAR Technology said.",
+ "text": "PAR Technology introduced Smart Passes, a new loyalty tool integrated into its Punchh platform that leverages Apple Wallet and Google Wallet to deliver real-time rewards, points, and offers to restaurant customers. While the announcement centers on PAR Technology, it highlights continued third-party adoption of Apple Wallet as an engagement channel for merchants, reinforcing Apple's ecosystem stickiness in retail and loyalty applications. No direct financial impact on Apple is indicated, but the partnership underscores Wallet's growing role as infrastructure for consumer brands. PAR plans to expand the offering with \"Offer Passes\" in Q1 2026.",
+ "usage": {
+  "input": 325,
+  "output": 228,
+  "stop_reason": "end_turn"
+ }
+}

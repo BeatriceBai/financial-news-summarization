@@ -1,0 +1,117 @@
+{
+  "n_paired": 49,
+  "comparison": {
+    "faithfulness": {
+      "n": 49,
+      "mean_A": 2.7959,
+      "mean_B": 4.4286,
+      "diff_B_minus_A": 1.6327,
+      "ci_low": 1.3469,
+      "ci_high": 1.898,
+      "wilcoxon_p": 0.0,
+      "B_better": 42,
+      "A_better": 1,
+      "same": 6
+    },
+    "ticker_focus": {
+      "n": 49,
+      "mean_A": 3.8776,
+      "mean_B": 4.7755,
+      "diff_B_minus_A": 0.898,
+      "ci_low": 0.6122,
+      "ci_high": 1.2041,
+      "wilcoxon_p": 0.0,
+      "B_better": 28,
+      "A_better": 1,
+      "same": 20
+    },
+    "coverage": {
+      "n": 49,
+      "mean_A": 4.2857,
+      "mean_B": 4.2449,
+      "diff_B_minus_A": -0.0408,
+      "ci_low": -0.2449,
+      "ci_high": 0.1633,
+      "wilcoxon_p": 0.7502,
+      "B_better": 10,
+      "A_better": 12,
+      "same": 27
+    },
+    "conciseness": {
+      "n": 49,
+      "mean_A": 3.4898,
+      "mean_B": 3.9184,
+      "diff_B_minus_A": 0.4286,
+      "ci_low": 0.1224,
+      "ci_high": 0.7143,
+      "wilcoxon_p": 0.0081,
+      "B_better": 24,
+      "A_better": 7,
+      "same": 18
+    },
+    "n_unsupported_claims": {
+      "n": 49,
+      "mean_A": 3.2245,
+      "mean_B": 0.7143,
+      "diff_B_minus_A": -2.5102,
+      "ci_low": -2.9388,
+      "ci_high": -2.0612,
+      "wilcoxon_p": 0.0,
+      "B_better": 1,
+      "A_better": 43,
+      "same": 5
+    },
+    "n_material_claims": {
+      "n": 49,
+      "mean_A": 0.8367,
+      "mean_B": 0.0,
+      "diff_B_minus_A": -0.8367,
+      "ci_low": -1.1429,
+      "ci_high": -0.551,
+      "wilcoxon_p": 0.0,
+      "B_better": 0,
+      "A_better": 22,
+      "same": 27
+    },
+    "overstates_ticker_link": {
+      "n": 49,
+      "mean_A": 0.2857,
+      "mean_B": 0.0204,
+      "diff_B_minus_A": -0.2653,
+      "ci_low": -0.3878,
+      "ci_high": -0.1429,
+      "wilcoxon_p": 0.0002,
+      "B_better": 0,
+      "A_better": 13,
+      "same": 36
+    }
+  },
+  "pairwise": {
+    "B": 45,
+    "A": 3,
+    "tie": 0,
+    "inconsistent": 1
+  },
+  "first_shown_win_rate": 0.4897959183673469,
+  "relevance_accuracy": 0.8367346938775511,
+  "repeat_run_noise": 0.05,
+  "checks": {
+    "B is more faithful (CI of \u0394 above 0)": true,
+    "B has fewer unsupported claims (CI of \u0394 below 0)": true,
+    "B has fewer material claims (CI of \u0394 below 0)": true,
+    "B is more ticker-focused (CI of \u0394 above 0)": true,
+    "B overstates ticker links less (CI of \u0394 below 0)": true,
+    "No coverage cost for B (CI of \u0394 includes 0 or is above it)": true,
+    "B wins the pairwise comparison (sign test p < 0.05)": true,
+    "Judge shows no position bias (first-shown wins 40\u201360%)": true,
+    "A's most common error type is speculation or outside facts (observed: speculation)": true,
+    "B's advantage survives removing its header (faithfulness and ticker focus CIs above 0)": true,
+    "Judge names fabricated facts and entity swaps above repeat-run noise": true,
+    "Numeric check catches number swaps the judge may miss (\u2265 80%)": true,
+    "B is shorter than A (mean words: A 96, B 62)": true,
+    "B's most common relevance error is peripheral \u2192 secondary (observed: peripheral \u2192 secondary)": true,
+    "Every B output is valid JSON": true,
+    "No judge reply was truncated or unparseable": true,
+    "Reviewer agrees with the judge on A-vs-B direction for faithfulness (\u2265 75%)": true
+  }
+}

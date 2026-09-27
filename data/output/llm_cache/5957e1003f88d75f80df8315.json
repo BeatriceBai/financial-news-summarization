@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows JPMorgan Chase (JPM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Daiwa Securities Adjusts PT on JPMorgan Chase & Co. to $353 From $345, Maintains Outperform Rating\n\nBODY:\n06:19 AM EST, 01/06/2026 (MT Newswires) -- JPMorgan Chase & Co.(JPM) has an average rating of overweight and mean price target of $339.55, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",
+ "text": "Daiwa Securities raised its price target on JPMorgan Chase & Co. (JPM) to $353 from $345, maintaining its Outperform rating, signaling continued confidence in the stock's upside potential. This target exceeds the current Wall Street consensus, as analysts polled by FactSet hold an average \"overweight\" rating on JPM with a mean price target of $339.55. The revised target suggests Daiwa sees additional room for growth beyond broader analyst expectations, reinforcing a generally positive outlook on JPMorgan's shares among covering firms as the new trading year begins.",
+ "usage": {
+  "input": 270,
+  "output": 196,
+  "stop_reason": "end_turn"
+ }
+}

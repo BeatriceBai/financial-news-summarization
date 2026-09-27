@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Charles Schwab (SCHW).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Goldman Sachs Adjusts Price Target on Charles Schwab to $116 From $114, Maintains Buy Rating\n\nBODY:\n07:01 AM EST, 01/06/2026 (MT Newswires) -- Charles Schwab Corp (SCHW) has an average rating of overweight and mean price target of $116, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",
+ "text": "Goldman Sachs raised its price target on Charles Schwab (SCHW) to $116 from $114 while maintaining its Buy rating. This aligns with the broader analyst consensus, which currently shows an average \"overweight\" rating and a mean price target of $116, according to FactSet data. The modest upward revision suggests continued analyst confidence in Schwab's business fundamentals and growth prospects, though the small increment indicates incremental rather than dramatic optimism. Investors should note this as a signal of stable, positive sentiment among Wall Street analysts covering the brokerage and financial services firm, with the target adjustment reflecting fine-tuning of valuation models rather than a significant shift in outlook.",
+ "usage": {
+  "input": 260,
+  "output": 233,
+  "stop_reason": "end_turn"
+ }
+}

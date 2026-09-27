@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows JPMorgan Chase (JPM).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Keefe Bruyette & Woods Adjusts PT on JPMorgan Chase & Co. to $363 From $354, Keeps Outperform Rating\n\nBODY:\n06:02 AM EST, 12/17/2025 (MT Newswires) -- JPMorgan Chase & Co. (JPM) has an average rating of overweight and mean price target of $332.32, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",
+ "text": "Keefe, Bruyette & Woods raised its price target on JPMorgan Chase & Co. (JPM) to $363 from $354, maintaining its Outperform rating. This new target sits notably above the Street's average price target of $332.32 and reflects an overweight consensus rating among analysts polled by FactSet. The upward revision signals continued confidence from KBW in JPMorgan's earnings outlook and growth trajectory, positioning the bank favorably relative to peer expectations. Investors may view this as a bullish signal, though it's worth noting KBW's target remains an outlier compared to broader analyst sentiment, suggesting some divergence in valuation assumptions across the analyst community covering the stock.",
+ "usage": {
+  "input": 275,
+  "output": 235,
+  "stop_reason": "end_turn"
+ }
+}

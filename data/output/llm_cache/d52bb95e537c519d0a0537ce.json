@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Apple Updates iOS in Japan to Comply With Mobile Software Competition Act\n\nBODY:\n04:31 AM EST, 12/18/2025 (MT Newswires) -- Apple (AAPL) said Thursday that it implemented changes to its iOS in Japan to comply with the country's Mobile Software Competition Act.\n\nThe changes include alternative application marketplaces that developers can use to distribute their apps and the option to process app payments outside of Apple's in-app purchase, among others, the company said.\n\nApple said it is also updated its business terms for iOS applications in Japan in line with the changes.",
+ "text": "Apple has updated iOS in Japan to comply with the country's new Mobile Software Competition Act, marking another instance of regulatory-driven changes to its ecosystem following similar moves in the EU. Key updates include allowing alternative app marketplaces and enabling developers to process payments outside Apple's in-app purchase system, potentially reducing Apple's commission revenue from Japanese app transactions. The company also revised its business terms for iOS apps in the region. Investors should watch for potential impacts on App Store services revenue and monitor whether similar regulatory pressures expand to other major markets, which could compound margin pressure on Apple's high-margin services segment.",
+ "usage": {
+  "input": 262,
+  "output": 217,
+  "stop_reason": "end_turn"
+ }
+}

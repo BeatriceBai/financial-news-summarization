@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "system": "You are a meticulous senior equity research editor. You audit news summaries written for analysts. You are strict about factual accuracy and you do not reward length.",
+ "prompt": "An analyst covering JPMorgan Chase (JPM) will read ONE of two summaries instead of the article.\nWhich summary serves that analyst better? Judge against the ARTICLE only.\nPriorities, in order: (1) factual accuracy - any unsupported claim is a serious defect;\n(2) usefulness for a JPM analyst, including representing honestly how relevant the article is to JPM;\n(3) concision. Ignore formatting differences and do not prefer a summary for being longer.\n\n<article>\nHEADLINE: Several banks are trading at new 52-week highs today: BAC, BNS, C, DB, JPM, TD, UBS, WFC\n\nBODY:\n[No article body - headline only]\n</article>\n\n<summary_1>\nSeveral major banking stocks, including JPMorgan Chase (JPM), reached new 52-week highs in today's trading session. JPM was among a broad group of financial institutions\u2014including Bank of America (BAC), Bank of Nova Scotia (BNS), Citigroup (C), Deutsche Bank (DB), TD Bank (TD), UBS, and Wells Fargo (WFC)\u2014hitting these milestones simultaneously. This sector-wide rally suggests positive momentum across the banking industry, potentially driven by favorable macroeconomic conditions, interest rate expectations, or improved investor sentiment toward financial institutions. For JPM investors, this signals continued strength and market confidence in the stock's performance alongside its peers.\n</summary_1>\n\n<summary_2>\n[JPM relevance: secondary | sentiment: positive]\nJPM is among several major banks (BAC, BNS, C, DB, JPM, TD, UBS, WFC) reported to be trading at new 52-week highs today, per headline-only report.\nKey facts:\n- JPM listed among banks hitting new 52-week highs\n- Other banks include BAC, BNS, C, DB, TD, UBS, WFC\n- No further details or figures provided\n</summary_2>\n\nReturn only JSON: {\"reason\": \"<= 40 words\", \"winner\": \"1\" | \"2\" | \"tie\"}",
+ "schema": "PairwiseJudgment",
+ "text": "{\"reason\":\"Summary 1 speculates about drivers (macro conditions, rate expectations) and 'continued strength' that the headline doesn't support. Summary 2 sticks to the headline, notes there's no body, flags relevance honestly, and is concise.\",\"winner\":\"2\"}",
+ "usage": {
+  "input": 1024,
+  "output": 95,
+  "stop_reason": "end_turn",
+  "structured": true
+ }
+}

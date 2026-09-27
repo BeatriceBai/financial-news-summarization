@@ -1,0 +1,11 @@
+{
+ "model": "claude-sonnet-5",
+ "system": "You are a financial analyst.",
+ "prompt": "Summarize the following news article for an investor who follows Apple (AAPL).\nWrite a single paragraph of at most 100 words.\n\nHEADLINE: Apple names Ben Borders as its Principal Accounting Officer, effective January 1\n\nBODY:\n[No article body - headline only]",
+ "text": "Apple has appointed Ben Borders as its new Principal Accounting Officer, effective January 1. This leadership change places Borders in a key financial oversight role, responsible for ensuring the accuracy and integrity of Apple's accounting practices and financial reporting. For investors, executive appointments like this signal continuity in corporate governance and financial controls. While no further details on Borders' background or the reasons for this transition were provided, such appointments are routine corporate governance updates that typically do not significantly impact stock valuation but are worth monitoring for any broader organizational changes.",
+ "usage": {
+  "input": 108,
+  "output": 186,
+  "stop_reason": "end_turn"
+ }
+}

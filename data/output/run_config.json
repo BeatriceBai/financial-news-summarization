@@ -1,0 +1,7 @@
+{
+  "generator": "anthropic:claude-sonnet-5",
+  "judge": "anthropic:claude-opus-5-5",
+  "gen_max_tokens": 1200,
+  "judge_max_tokens": 4000,
+  "structured_outputs": true
+}

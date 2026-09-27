@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "system": "You are a meticulous senior equity research editor. You audit news summaries written for analysts. You are strict about factual accuracy and you do not reward length.",
+ "prompt": "An analyst covering Charles Schwab (SCHW) will read ONE of two summaries instead of the article.\nWhich summary serves that analyst better? Judge against the ARTICLE only.\nPriorities, in order: (1) factual accuracy - any unsupported claim is a serious defect;\n(2) usefulness for a SCHW analyst, including representing honestly how relevant the article is to SCHW;\n(3) concision. Ignore formatting differences and do not prefer a summary for being longer.\n\n<article>\nHEADLINE: Raymond James Adjusts PT on Charles Schwab to $114 From $110, Maintains Outperform Rating\n\nBODY:\n06:51 AM EST, 01/06/2026 (MT Newswires) -- Charles Schwab (SCHW) has an average rating of overweight and mean price target of $116, according to analysts polled by FactSet.\n\n(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)\n</article>\n\n<summary_1>\n[SCHW relevance: primary | sentiment: positive]\nRaymond James raised its price target on Charles Schwab to $114 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116 for SCHW.\nKey facts:\n- Raymond James PT raised to $114 from $110\n- Rating maintained at Outperform\n- FactSet average rating: overweight, mean PT $116\n</summary_1>\n\n<summary_2>\nRaymond James raised its price target on Charles Schwab (SCHW) to $114 from $110, maintaining its Outperform rating. This aligns with broader analyst sentiment, as FactSet-polled analysts currently give SCHW an average \"overweight\" rating with a mean price target of $116, suggesting continued confidence in the stock's upside potential among Wall Street research firms covering the brokerage and financial services company.\n</summary_2>\n\nReturn only JSON: {\"reason\": \"<= 40 words\", \"winner\": \"1\" | \"2\" | \"tie\"}",
+ "schema": "PairwiseJudgment",
+ "text": "{\"reason\":\"Both are accurate on the facts. Summary 2 adds interpretive filler ('continued confidence in upside potential') not stated in the article and is wordier. Summary 1 is concise, faithful, and flags relevance clearly.\",\"winner\":\"1\"}",
+ "usage": {
+  "input": 1046,
+  "output": 90,
+  "stop_reason": "end_turn",
+  "structured": true
+ }
+}

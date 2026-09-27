@@ -1,0 +1,725 @@
+article_id,ticker,company,published,source,title,content,body_words,informative_words,body_type,artifacts_fixed,ticker_in_title,ticker_in_body,gold_relevance,gold_note
+12,AAPL,Apple,2025-12-08 13:32:37+00:00,MT Newswires,--President Trump Says He Will Issue 'One Rule' Executive Order on AI This Week,"08:32 AM EST, 12/08/2025 (MT Newswires) --",7,0,title_only,0,False,False,none,Headline only: Trump to issue AI executive order; Apple not mentioned
+15,AAPL,Apple,2025-12-11 13:47:22+00:00,MT Newswires,PAR Technology Launches Smart Passes Loyalty Tool for Restaurants,"08:47 AM EST, 12/11/2025 (MT Newswires) -- PAR Technology (PAR) said Thursday it launched Smart Passes, a loyalty product that lets restaurant brands use the digital wallet platforms of Alphabet's (GOOG, GOOGL) Google and Apple (AAPL) as a real-time rewards channel.
+
+Smart Passes is integrated into the Punchh loyalty platform and lets restaurants sign up guests and send updates of points, perks, and offers, the company said.
+
+Smart Passes is already available to restaurant brands, and a related feature called Offer Passes is planned for launch in Q1 2026, PAR Technology said.",92,85,brief,0,False,True,peripheral,PAR Technology product launch; Apple Wallet named as a channel
+22,AAPL,Apple,2025-12-18 09:31:21+00:00,MT Newswires,Apple Updates iOS in Japan to Comply With Mobile Software Competition Act,"04:31 AM EST, 12/18/2025 (MT Newswires) -- Apple (AAPL) said Thursday that it implemented changes to its iOS in Japan to comply with the country's Mobile Software Competition Act.
+
+The changes include alternative application marketplaces that developers can use to distribute their apps and the option to process app payments outside of Apple's in-app purchase, among others, the company said.
+
+Apple said it is also updated its business terms for iOS applications in Japan in line with the changes.",79,72,brief,0,True,True,primary,Apple changes iOS in Japan to comply with competition law
+23,AAPL,Apple,2025-12-18 09:41:35+00:00,MT Newswires,Apple Intends to Expand Ads in App Store Search Results From 2026,"04:41 AM EST, 12/18/2025 (MT Newswires) -- Apple (AAPL) said Wednesday it plans to increase the number of advertisements that appear in its App Store search results from next year.
+
+Apple Ads will introduce additional ads across search queries to help give advertisers ""more opportunities"" to drive downloads from search results, the iPhone maker said in an update posted on its website.
+
+""If you have a search results campaign running, your ad will be automatically eligible for all available positions, but you can't select or bid for a particular one,"" the company said. ""You'll be billed as usual based on your pricing model: cost per tap or cost per install.""",110,103,brief,0,True,True,primary,Apple to expand App Store search ads in 2026
+24,AAPL,Apple,2025-12-22 09:41:11+00:00,MT Newswires,Apple Faces $115.7 Million Italian Regulator Fine Over Alleged 'Abuse' of 'Dominant Position',"04:41 AM EST, 12/22/2025 (MT Newswires) -- Apple (AAPL) has been fined roughly 98.6 million euros ($115.7 million) by Italy's competition authority over alleged ""abuse"" of a ""dominant position,"" the regulator said Monday.
+
+The Italian regulator carried out the probe with the European Commission, other local competition authorities, and the Italian Data Protection Authority, and confirmed the App Tracking Transparency policy's restrictive nature,"" according to the Autorita Garante della Concorrenza e del Mercato.
+
+App Tracking Transparency is a privacy requirement devised by the tech giant in April 2021 on third-party developers of apps distributed through the App Store.
+
+""The Authority established that the terms of the ATT policy are imposed unilaterally and harm the interests of Apple's commercial partners. The terms were also found to be disproportionate to the achievement of the company's stated data protection objectives,"" according to the AGCM.
+
+Apple did not immediately respond to MT Newswires' request for comment.",152,145,brief,0,True,True,primary,Italy fines Apple ~EUR 98.6M over App Tracking Transparency
+30,AAPL,Apple,2026-01-02 18:57:39+00:00,MT Newswires,Sector Update: Tech Stocks Mixed Friday Afternoon,"01:57 PM EST, 01/02/2026 (MT Newswires) -- Tech stocks were mixed Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) easing 0.3% and the State Street SPDR S&P Semiconductor ETF (XSD) gaining 3.2%.
+
+The Philadelphia Semiconductor index jumped 3.5%.
+
+In corporate news, Taiwan Semiconductor Manufacturing (TSM) shares rose 5.1% after Reuters reported Wednesday the company received an annual license from the US government to move chip manufacturing equipment to its sites in Nanjing, China.
+
+Apple (AAPL) scaled back production and marketing initiatives around its Vision Pro headset amid a failure to attract customers, the Financial Times reported Thursday. Apple shares fell 0.9%.
+
+Baidu (BIDU) shares surged 14%. The company plans to spin off its Kunlunxin chip division and list the unit's shares on the Hong Kong Stock Exchange.",131,124,brief,0,False,True,secondary,"Tech sector update; Apple scaled back Vision Pro, shares -0.9%"
+31,AAPL,Apple,2026-01-02 22:02:56+00:00,Briefing.com,"Apple names Ben Borders as its Principal Accounting Officer, effective January 1",,0,0,title_only,0,True,False,primary,Headline only: Apple names new Principal Accounting Officer
+38,AAPL,Apple,2026-01-07 22:59:03+00:00,Briefing.com,Chase confirms it will become new issuer of Apple (AAPL) Card,"Apple Card users can continue to enjoy the award-winning experience of Apple Card, which includes up to 3 percent unlimited Daily Cash back on every purchase, easy-to-navigate spending tools, Apple Card Family,1 access to a high-yield Savings account,2 and more. Mastercard will remain the payment network for Apple Card, and Apple Card users can continue to access Mastercard's global acceptance and benefits.Click here for full release.",66,66,brief,0,True,True,primary,Chase becomes new Apple Card issuer; Mastercard remains network
+39,AAPL,Apple,2026-01-08 13:56:17+00:00,MT Newswires,Sector Update: Tech,"08:56 AM EST, 01/08/2026 (MT Newswires) -- Technology stocks were leaning lower premarket Thursday, with the State Street Technology Select Sector SPDR Fund (XLK) down 0.3% and the State Street SPDR S&P Semiconductor ETF (XSD) declining by 0.3%.
+
+Alphabet (GOOG) shares were up more than 1% pre-bell. Alphabet has become the world's second-most valuable publicly traded company with a market cap of $3.892 trillion in recent premarket activity Thursday, overtaking Apple (AAPL) with $3.863 trillion.",75,68,brief,0,False,True,secondary,Tech premarket; Alphabet overtakes Apple in market cap
+49,AAPL,Apple,2026-01-15 12:37:55+00:00,MT Newswires,Market Chatter: Apple Antitrust Probe in India to Continue Despite Delays,"07:37 AM EST, 01/15/2026 (MT Newswires) -- Apple (AAPL) has been warned by India that it will continue with an antitrust case against the company by the end of next week if the US tech giant fails to respond to officials investigating its App store, Reuters reported Thursday, citing a confidential Dec. 31 document.
+
+Apple is being accused of attempting to undermine the investigation by delaying responses to the inquiry, the report said.
+
+The commission said Apple has filed numerous requests for extensions since October 2024 instead of answering the allegations, the report said.
+
+Apple has said it could be fined as much as $38 billion in the Competition Commission of India case alleging that abused its monopoly position on its App store, the report said.
+
+Apple did not immediately reply to MT Newswires' request for comment.
+
+(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)",167,130,brief,0,True,True,primary,India antitrust probe of Apple App Store to continue; potential fine up to $38B
+2,JPM,JPMorgan Chase,2025-11-18 09:50:25+00:00,Reuters,"EXCLUSIVE-Weinstein's Saba sells credit derivatives on Big Tech as AI risks grow, source says","*
+
+Saba sells credit derivatives to hedge against tech stock risks, source says
+
+*
+
+Sells Oracle, Microsoft, Meta, Amazon, Google CDSs
+
+*
+
+AI stocks have sold off in recent weeks
+
+(Adds Oracle declining to comment in paragraph 5)
+
+By Nell Mackenzie and Lucy Raitano
+
+LONDON, Nov 17 (Reuters) - Boaz Weinstein's Saba Capital Management has sold credit derivatives in recent months to lenders seeking protection on big tech names like Oracle and Microsoft due to concerns over a debt-financed AI investment frenzy, a source told Reuters.
+
+Banks have sought to shield their exposure to potential losses by buying credit default swaps (CDS) from the U.S. hedge fund manager, known for his winning bet against the JPMorgan Chase trader dubbed the ""London Whale"", the person said.
+
+While the credit insurance rises in value in tandem with the perceived risk of a company's default, current prices indicate those risks are still low compared to other sectors.
+
+Saba sold banks CDSs on Oracle, Microsoft, Meta, Amazon and Google parent Alphabet , said the source, who had direct knowledge of the deals.
+
+Some large asset managers, including a private credit fund, were also keen to buy the product, the source said.
+
+Microsoft and Oracle declined to comment. Meta, Google and Amazon did not immediately respond to requests for comment.
+
+BANKS SEEK PROTECTION AS TECH FIRMS RACK UP DEBT
+
+The development highlights a scramble to hedge against an explosion in the value of AI companies and their growing debt burdens. It also points to fears that, if the current AI enthusiasm proves to be a bubble, any pop would echo across equity markets as a sharp correction, denting the economy.
+
+The person said it was the first time Saba has sold hedging protection on some of the companies and the first time banks had asked for this kind of trade from the hedge fund.
+
+The finance firms, the source said, were seeking protection against the debt accumulating on companies' balance sheets as they borrow heavily to fund their multi-billion-dollar AI projects.
+
+Equity derivatives trading also saw increased client demand for hedging protection against the sector, a Goldman Sachs client note released on Friday showed.
+
+""Some of this is concern about AI corporate bond supply over the next few quarters after a surprise surge in recent weeks,"" Deutsche Bank's Jim Reid said in a note on Monday speaking in general about the tech-related CDS market.
+
+""However, it seems that they are also being used as a general hedge for all sorts of positive AI positions.""
+
+RISKS LOW COMPARED TO OTHER SECTORS DESPITE BUBBLE WORRIES
+
+While ultimately CDSs are meant to pay compensation if a company goes bust, the derivatives themselves grow in value as the company's economic health declines.
+
+Oracle and Alphabet CDSs are trading at their highest levels in two years, while data from S&P Global shows such contracts for Meta and Microsoft have jumped in recent weeks. Data for Meta CDSs was only available from late October, according to S&P.
+
+Though CDS contracts for big tech names have surged, analysts note that current levels are lower than those for some investment-grade firms in other sectors.
+
+CDS five-year spreads for Oracle reached over 105 basis points last week, while Alphabet and Amazon traded around 38 bps and Microsoft traded around 34 bps, according to S&P data.
+
+Borrowing by so-called hyperscalers - essentially large AI tech firms – has ballooned in recent weeks. Meta raised $30 billion of debt last month. Oracle raised $18 billion in September. And Google owner Alphabet has also tapped the market.
+
+In fact, more than double the sector's average annual IG bond issuance hit the market in September and October alone, BofA data showed.
+
+Societe Generale noted on Tuesday, however, that bond yield spreads are still below the aggregate investment-grade credit, while others such as Citi flag the hyperscalers' healthy balance sheets.
+
+In his weekly ""flow show"" report on Friday, Bank of America chief investment strategist Michael Hartnett said: ""Best short is AI hyperscaler corporate bonds.""
+
+(Reporting by Nell Mackenzie and Lucy Raitano; Editing by Dhara Ranasinghe, Elisa Martinuzzi and Joe Bavier)",681,681,full,0,False,True,peripheral,Saba sells Big Tech CDS; JPMorgan only named via the London Whale reference
+14,JPM,JPMorgan Chase,2025-12-09 20:36:52+00:00,MT Newswires,Update: JPMorgan Asset Management Seeks to Convert Certain Municipal Funds Into ETFs,"03:36 PM EST, 12/09/2025 (MT Newswires) -- (Updates with the company's statement throughout.)
+
+JPMorgan Chase's (JPM) investment management division JPMorgan Asset Management said Tuesday it plans to convert certain US mutual funds into exchange-traded funds in 2026.
+
+The proposed conversions, if approved by the board of the funds in February, are expected to provide benefits like flexibility, increased transparency and enhanced tax efficiency, JPMorgan Asset Management said.
+
+JPMorgan believes that these funds, including JPMorgan New York Tax Free Bond Fund, JPMorgan California Tax Free Bond Fund, JPMorgan Preferred and Income Securities Fund, and JPMorgan US GARP Equity Fund are ""well suited"" for the ETF structure, the investment management arm said, adding that the combined assets of the funds are about $4.6 billion.
+
+Price: 302.16, Change: -13.05, Percent Change: -4.14",129,115,brief,0,True,True,primary,JPMorgan Asset Management converting ~$4.6B of mutual funds to ETFs
+19,JPM,JPMorgan Chase,2025-12-17 11:02:39+00:00,MT Newswires,"Keefe Bruyette & Woods Adjusts PT on JPMorgan Chase & Co. to $363 From $354, Keeps Outperform Rating","06:02 AM EST, 12/17/2025 (MT Newswires) -- JPMorgan Chase & Co. (JPM) has an average rating of overweight and mean price target of $332.32, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",57,23,analyst_note,0,True,True,primary,KBW raises JPM PT to $363 (headline); body is FactSet consensus boilerplate
+28,JPM,JPMorgan Chase,2025-12-24 15:46:57+00:00,Briefing.com,"Several banks are trading at new 52-week highs today: BAC, BNS, C, DB, JPM, TD, UBS, WFC",,0,0,title_only,0,True,False,secondary,Headline only: JPM among 8 banks at 52-week highs
+34,JPM,JPMorgan Chase,2026-01-06 11:19:31+00:00,MT Newswires,"Daiwa Securities Adjusts PT on JPMorgan Chase & Co. to $353 From $345, Maintains Outperform Rating","06:19 AM EST, 01/06/2026 (MT Newswires) -- JPMorgan Chase & Co.(JPM) has an average rating of overweight and mean price target of $339.55, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",56,22,analyst_note,0,True,True,primary,Daiwa raises JPM PT to $353 (headline); body is FactSet consensus boilerplate
+43,JPM,JPMorgan Chase,2026-01-13 11:46:29+00:00,Reuters,UPDATE 1-JPMorgan profit falls on one-time Apple card deal charge,"(Adds details and context throughout)
+
+Jan 13 (Reuters) - JPMorgan Chase's profit fell in the fourth quarter as it took a one-time charge tied to its agreement with Goldman Sachs to take over a credit card partnership with Apple.
+
+Profit fell to $13 billion, or $4.63 per share, in the three months ended December 31, JPMorgan reported on Tuesday. That compares with $14 billion, or $4.81 per share, a year earlier.
+
+Earlier this month, JPMorgan and Apple struck a deal under which the bank became the new issuer of the iPhone maker's card.
+
+The deal would strengthen JPMorgan's foothold in credit cards and add to a long list of strategic wins for CEO Jamie Dimon, who has turned the bank into a leading player across retail and investment banking.
+
+The bank had said it expects to record a $2.2 billion provision for credit losses in the fourth quarter tied to the portfolio.
+
+The deal comes at a critical juncture for the credit card industry, which could face a sharp shift if a proposal by U.S. President Donald Trump to cap interest rates at 10% moves forward. While Trump has said he expects companies to comply by January 20, Wall Street analysts remain doubtful the measure can be implemented without congressional approval.
+
+A banking industry body warned last week that the move could tighten access to credit for consumers and small businesses and drive borrowers toward unregulated lenders.
+
+Excluding the one-time charge, JPMorgan's quarterly profit increased to $14.7 billion, or $5.23 per share, fueled by trading.
+
+(Reporting by Manya Saini in Bengaluru and Saeed Azhar in New York, editing by Lananh Nguyen and Sriraj Kalluvila)",274,274,full,16,True,True,primary,JPM Q4 profit falls on one-time Apple Card charge; ex-charge EPS $5.23
+44,JPM,JPMorgan Chase,2026-01-13 12:01:02+00:00,Reuters,BRIEF-JPMorgan Says Outlook 2026 Net Interest Income About $103B - Presentation,"Jan 13 (Reuters) - JPMORGAN:
+
+* JPMORGAN :OUTLOOK 2026 NET INTEREST INCOME ABOUT $103B - PRESENTATION
+
+* JPMORGAN : OUTLOOK 2026 EXPENSES ABOUT $105B - PRESENTATION
+
+* JPMORGAN : OUTLOOK 2026 CARD SERVICES NCO RATE ABOUT 3.4% - PRESENTATION
+
+* JPMORGAN : OUTLOOK 2026 NET INTEREST INCOME EX-MARKETS ABOUT $95B - PRESENTATION",52,52,brief,16,True,True,primary,"JPM 2026 guidance: NII ~$103B, expenses ~$105B"
+45,JPM,JPMorgan Chase,2026-01-14 10:50:28+00:00,Reuters,US STOCKS-Wall Street futures decline ahead of big bank earnings,"(For a Reuters live blog on U.S., UK and European stock markets, click or type LIVE/ in a news window.)
+
+*
+
+Results from Citigroup, Bank of America, Wells Fargo expected
+
+*
+
+Midcaps and smallcaps indexes outperform largecap S&P 500
+
+*
+
+Fed speeches may provide clues on future rate trajectory
+
+*
+
+Futures down: Dow 0.17%, S&P 500 0.17%, Nasdaq 0.22%
+
+Jan 14 (Reuters) - U.S. stock index futures dipped on Wednesday as investors braced for earnings from Citigroup, Bank of America and Wells Fargo, while retail sales and producer price data later in the day were expected to offer fresh insight on the health of the economy.
+
+Shares of Bank of America edged higher, while Wells Fargo and Citigroup edged lower in premarket trading ahead of their results. It comes a day after JPMorgan executives warned that a proposed ceiling on credit-card interest rates could severely hurt consumers and drag down financials, hurting financial stocks.
+
+Analysts largely expect U.S. big banks to post a jump in investment banking fees due to a revival in dealmaking.
+
+Wall Street's main indexes have stalled this week after the Dow and the S&P 500 touched record highs, with traders awaiting fourth-quarter earnings to see if they meet elevated expectations.
+
+Analysts project S&P 500 companies will deliver average fourth-quarter earnings growth of 8.8% year-on-year, lifting full-year 2025 bottom-line expansion to 13.2%, according to IBES LSEG data.
+
+At 5:10 a.m. ET, S&P 500 E-minis were down 12.25 points, or 0.17%, Dow E-minis were down 83 points, or 0.17%, and Nasdaq 100 E-minis were down 57.25 points, or 0.22%.
+
+After December's expected consumer-price rise kept rate-cut bets intact for the back half of the year, investors are now watching Wednesday's producer price and retail sales releases, alongside speeches from Fed voting members John Williams, Anna Paulson, Stephen Miran and Neel Kashkari.
+
+Interest rates are expected to stay unchanged for the most part of the first half of 2026, including at the Fed's January meeting, provided inflation and growth remain steady. Traders continue to expect at least two reductions later in the year, LSEG data showed.
+
+Meanwhile, the Danish and Greenlandic foreign ministers will meet with U.S. Vice President JD Vance at the White House later in the day following weeks of threats by President Donald Trump to take control of Greenland, an autonomous territory of Denmark.
+
+So far, markets have largely overlooked geopolitical risks such as the U.S. toppling Venezuela's leader, with enthusiasm around artificial intelligence and fourth-quarter results driving U.S. indexes to new peaks.
+
+The stock market's record rally is also showing early signs of broadening out this year, with S&P 400 midcaps and S&P 600 smallcaps outperforming the largecap S&P 500 so far this year.
+
+Palo Alto Networks and Fortinet fell 3.3% and 2.5%, respectively before the bell after sources told Reuters that Chinese authorities have told domestic companies to stop using some U.S. and Israeli cybersecurity software due to national security concerns. (Reporting by Medha Singh in Bengaluru; Editing by Maju Samuel )",498,498,full,16,False,True,peripheral,US futures ahead of bank earnings; one sentence on JPM executives' card-cap warning
+47,JPM,JPMorgan Chase,2026-01-14 21:36:33+00:00,Reuters,"US STOCKS-Wall Street ends lower, led by drop in Nasdaq, with tech, banks falling","(Adds market details and share moves after close of trading)
+
+*
+
+Tech and financial stocks among biggest sector decliners
+
+*
+
+Bank stocks fall after Wells Fargo, Citi, BofA results
+
+*
+
+Staples, energy sectors gain
+
+*
+
+Indexes: Dow down 0.1%, S&P 500 down 0.5%, Nasdaq down 1%
+
+By Caroline Valetkevitch
+
+NEW YORK, Jan 14 (Reuters) - U.S. stocks finished lower on Wednesday, led by a drop in the Nasdaq, with technology shares declining as investors moved into more defensive areas, while bank stocks extended recent losses following some mixed quarterly results. The S&P 500 bank index dropped, with shares of Wells Fargo down 4.6% after the company missed fourth-quarter profit expectations.
+
+Citigroup and Bank of America shares also fell, even after the companies beat Wall Street estimates for fourth-quarter profit. Financials including the banks, which were up sharply in 2025, have fallen this week amid concerns over U.S. President Donald Trump's proposed cap on credit-card interest rates, which JPMorgan executives warned could squeeze consumers and hurt financial sector profits.
+
+""After a nice run, and so-so or mediocre earnings, you're seeing profit-taking and consolidation"" in the banks, said Michael O’Rourke, chief market strategist at JonesTrading in Stamford, Connecticut. ""Generally speaking, people are still optimistic on the group.""
+
+In addition, he said, the credit-card cap plan may never go forward, but ""none of the bank executives could rule it out.""
+
+In tech, he said, investors are looking to rotate out of expensive megacaps and into value and more defensive names.
+
+S&P 500 financials fell along with the S&P 500 technology sector while more defensive groups including consumer staples rose. The small-cap Russell 2000 index, which has been sharply outperforming the benchmark S&P 500 so far this year, hit a record closing high, along with the S&P 500 industrials index.
+
+The Dow Jones Industrial Average fell 42.36 points, or 0.09%, to 49,149.63, the S&P 500 lost 37.14 points, or 0.53%, to 6,926.60 and the Nasdaq Composite lost 238.12 points, or 1.00%, to 23,471.75. Shares of Broadcom and Fortinet dropped after Reuters reported, citing three people briefed on the matter, that Chinese authorities have told domestic companies to stop using cybersecurity software made by more than a dozen firms from the U.S. and Israel.
+
+On the flip side, energy shares rose, with oil prices settling higher amid worries about Iranian supply disruptions. Oil eased later in the day.
+
+Investors also digested data earlier on Wednesday showing producer prices in the U.S. matched forecasts in November but that retail sales topped expectations. A report on Tuesday showed December consumer prices rose as projected.
+
+Interest rates are widely expected to hold steady through the first half of the year, including at the Federal Reserve's January meeting, with traders pricing in at least two cuts before year-end, according to LSEG data.
+
+Volume on U.S. exchanges was 22.54 billion shares, compared with the 16.69 billion average for the full session over the last 20 trading days. Advancing issues outnumbered decliners by a 1.85-to-1 ratio on the NYSE. There were 518 new highs and 69 new lows on the NYSE. On the Nasdaq, 2,739 stocks rose and 2,034 fell as advancing issues outnumbered decliners by a 1.35-to-1 ratio.
+
+(Reporting by Caroline Valetkevitch in New York; Additional reporting by Medha Singh and Pranav Kashyap in Bengaluru; Editing by Maju Samuel and Matthew Lewis)",552,552,full,16,False,True,peripheral,US market close; banks fall; one sentence on JPM executives' card-cap warning
+48,JPM,JPMorgan Chase,2026-01-14 21:50:00+00:00,Business Wire,JPMorganChase to Present at the UBS Financial Services Conference,"NEW YORK--(BUSINESS WIRE)--Jan. 14, 2026--Troy Rohrbaugh, Co-CEO of the Commercial & Investment Bank, will present at the UBS Financial Services Conference in Key Biscayne, Florida on Tuesday, February 10, 2026 at 9:40 a.m. (Eastern).
+
+A live webcast will be available on the day of the conference at [www.jpmorganchase.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.jpmorganchase.com%2F&esheet=54397198&newsitemid=20260114380351&lan=en-US&anchor=www.jpmorganchase.com&index=1&md5=3fb83bc248511e88efe8b59dda673953) under Investor Relations, Events & Presentations.
+
+[JPMorgan Chase & Co](https://client.schwab.com/app/research/#/symbol/JPM). (NYSE: JPM) is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorganChase had $4.4 trillion in assets and $362 billion in stockholders’ equity as of December 31, 2025. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally. Information about JPMorgan Chase & Co. is available at [www.jpmorganchase.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.jpmorganchase.com%2F&esheet=54397198&newsitemid=20260114380351&lan=en-US&anchor=www.jpmorganchase.com&index=2&md5=32acaea4da010a12e47b00b3d7a4ae66).
+
+View source version on [businesswire.com](http://businesswire.com): <https://www.businesswire.com/news/home/20260114380351/en/>
+
+*Investor Contact:*Mikael Grubb 
+212-270-2479
+
+*Media Contact:*Joseph Evangelisti 
+212-270-7438
+
+Source: JPMorgan Chase & Co.",175,175,full,0,True,True,primary,Event notice: JPM co-CEO to present at UBS conference (low materiality)
+1,NVDA,Nvidia,2025-11-18 05:32:22+00:00,Reuters,Japan's Nikkei falls 3% on tech selloff,"(Adds comments, updates with stock prices)
+
+By Junko Fujita
+
+TOKYO, Nov 18 (Reuters) - Japan's Nikkei share average fell 3% on Tuesday, heading for its biggest decline in more than seven months, as investors sold off tech stocks following Wall Street's sharp decline overnight.
+
+The index fell as much as 3.3% to 48,661,52, hitting its lowest level since October 23, as the selloff accelerated in the afternoon session. It was last down 3% at 48,808.33, as of 0502 GMT, while the broader Topix slipped 2.49% to 3,264.11.
+
+""Once the Nikkei fell below the key 50,000 level, sentiment worsened and the sell-off accelerated,"" said Seiichi Suzuki, chief equity market analyst at Tokai Tokyo Intelligence Laboratory.
+
+""Some investors wanted to buy shares on a dip, but even they waited for shares to fall further.""
+
+U.S. stocks ended sharply lower on Monday, with the S&P 500 and the Nasdaq closing below a key technical indicator for the first time since late April as investors braced for quarterly results from retailers and Nvidia and awaited a long-delayed U.S. jobs report this week.
+
+Nvidia, the world's largest company by market value and which is at the heart of Wall Street's artificial intelligence trade, is due to report after the bell on Wednesday.
+
+SoftBank Group fell 7.2%, while chip-related Tokyo Electron and Advantest lost 5.17% and 3.6%, respectively.
+
+""High-flying heavyweight technology stocks were sold off today, a typical trend when investors turned to a risk-off mode,"" said Hitoshi Asaoka, chief strategist at Asset Management One.
+
+Fibre optic cable makers, the beneficiaries of AI trade, fell, with Fujikura and Sumitomo Electric Industries losing 9% and 7.45%, respectively.
+
+Ryohin Keikaku, operator of Muji brand stores, gave up early gains to fall 1.09%, following a 9.4% decline in the previous session.
+
+Retail stocks fell sharply in the previous session after China warned its citizens against travel to Japan amid a worsening diplomatic rift over Taiwan. (Reporting by Junko Fujita; Editing by Tom Hogue and Subhranshu Sahu)",327,327,full,0,False,True,peripheral,Nikkei market wrap; Nvidia only mentioned as upcoming earnings catalyst
+5,NVDA,Nvidia,2025-11-20 03:31:32+00:00,Reuters,"GLOBAL MARKETS-Stocks soar as Nvidia earnings ease AI valuation fears, jobs data in view","(Updates markets, adds China, oil)
+
+*
+
+Nikkei surges 4.2%, Kospi gains 3.3%, S&P futures up 1.2%
+
+*
+
+Nvidia up 5.1% after-hours after forecasting revenue well above estimates
+
+*
+
+Fed rate-cut odds fall with delayed jobs data in focus
+
+By Gregor Stuart Hunter
+
+SINGAPORE, Nov 20 (Reuters) - A relief rally swept across Asian markets and lifted stocks in early trading on Thursday as investors cheered Nvidia's market-topping earnings, while the dollar ticked up as traders braced for the release of delayed jobs data.
+
+Tech-heavy markets Japan, South Korea and Taiwan led the rally after Nvidia CEO Jensen Huang touted blockbuster demand for its AI chips from giant cloud providers and shrugged off concerns about an AI bubble.
+
+The remarks were backed by the world's most valuable company's forecast quarterly revenue well above Wall Street estimates, quelling some of the AI valuation fears that had triggered a rout in markets over recent sessions.
+
+Nvidia ""delivered yet another master class in AI dominance,"" said Tony Sycamore, market analyst at IG in Sydney.
+
+That sentiment was echoed in major regional markets. Tokyo's Nikkei 225 soared as much as 4.2%, Korean stocks jumped 3.3%, and the Taiwanese market rallied 3.4% as tech manufacturers in the AI supply chain made big gains.
+
+TSMC rose 4.3%, Samsung Electronics advanced 5.1%, SK Hynix jumped 4.5%, and Tokyo Electron surged 5.4%.
+
+MSCI's broadest index of Asia-Pacific shares outside Japan was up 1.2%, rebounding from a one-month low, while S&P 500 e-mini futures rose 1.3%.
+
+Stocks on Wall Street had snapped a four-day losing streak on Wednesday before Nvidia's earnings release as investors questioned whether the AI valuation concerns were overblown.
+
+In Asia, the Chinese market bucked the trend, with Hong Kong's Hang Seng Index off 0.1% and a gauge of mainland stocks erasing an earlier gain of 0.7% to trade flat.
+
+Earlier in the day, the People's Bank of China left benchmark lending rates unchanged for the sixth straight month. Traders had expected the on-hold rates decision, though worries about weakness in China's economic recovery have stoked market calls for more stimulus.
+
+The U.S. dollar index, which tracks the greenback's strength against a basket of six major peers, advanced 0.2% to 100.3, hovering close to a two-week high.
+
+The yield on benchmark 10-year Treasury notes edged up just shy of a basis point to 4.1405% compared with its U.S. close of 4.131% on Wednesday.
+
+Traders are awaiting the release of September's delayed jobs report, due for release later in the global day, to provide clues on the Federal Reserve's next move.
+
+Minutes from the Fed's October meeting released on Wednesday showed it cut interest rates even as policymakers cautioned that doing so could risk entrenched inflation and a loss of public trust in the U.S. central bank.
+
+Fed funds futures are pricing an implied 33% probability of a 25-basis-point cut at the next meeting on December 10, down from a 50% chance a day earlier, according to the CME Group's FedWatch tool.
+
+An updated schedule for the release of the November jobs report, now delayed until December 16, is behind the move, said Gavin Friend, senior markets strategist at National Australia Bank in London.
+
+""That's six days after the December FOMC meeting, and that's why the 12 or 13 basis points of rate cuts that were priced in for December, 50% or so, has been immediately evaporated,"" he said on a podcast. From the market's perspective, he said, the data fog ""plays to the Fed's messaging that 'we need to pause'.""
+
+The dollar rose 0.2% against the yen to 157.48, after the Japanese currency reached its weakest level in ten months during U.S. trading hours, and set a record-low against the euro .
+
+The yen has weakened steadily since Prime Minister Sanae Takaichi was elected leader of her party, losing more than 6% of its value and defying a rise in Japanese yields on unease about the scale of borrowing needed to fund her stimulus plans.
+
+Against the dollar, the European single currency was 0.2% weaker on the day at $1.1517.
+
+Brent crude rose 0.5% to $63.80 per barrel as markets assessed the latest U.S. proposals to end the war in Ukraine and prepared for a U.S. deadline to cease operations with two major Russian oil firms.
+
+Cryptocurrencies retraced a recent selloff, with bitcoin and ether both up around 2% each.
+
+Precious metals markets were choppy, with spot gold last down 0.6% at $4,055.19 after earlier rising as much as 0.7%. (Reporting by Gregor Stuart Hunter Editing by Shri Navaratnam)",752,752,full,0,True,True,secondary,Asia market wrap driven by Nvidia earnings beat and guidance
+6,NVDA,Nvidia,2025-11-20 11:18:55+00:00,Reuters,UPDATE 1-Tipping point or bubble? Nvidia CEO sees AI transformation while skeptics count the risks,"*
+
+Nvidia CEO brushes off market talk of an AI bubble
+
+*
+
+Chip giant discloses majority of sales rely on four customers
+
+*
+
+Circular deals, infrastructure challenges among market concerns
+
+(Adds shares in paragraph 2)
+
+By Arsheeya Bajwa and Stephen Nellis
+
+SAN FRANCISCO, Nov 19 (Reuters) - Nvidia CEO Jensen Huang says he does not see an AI bubble, but rather a tipping point.
+
+In his view, the kind of computing his company specializes in will come to suffuse everything from writing code to running legions of robots in the everyday world, stoking investor optimism and sending Nvidia shares up nearly 5% in premarket trading on Thursday.
+
+But a growing band of market skeptics are concerned the only way off a tipping point is down.
+
+The chip giant on Wednesday produced results and forecasts that beat expectations, allaying immediate fears. But there are longer-term worries that Nvidia's growth could be crimped by factors beyond the control of even the most valuable listed company in human history, now worth more than $4.5 trillion.
+
+In a regulatory filing, Nvidia disclosed the majority of its booming business rests on four unnamed customers.
+
+In the third quarter, 61% of its $57 billion in revenue came from those customers, up from a 56% concentration among four customers in the previous quarter. Past announcements suggest they could include Microsoft, Meta and Oracle . Nvidia also doubled the money it spends renting back its own chips from cloud customers to $26 billion, up from $12.6 billion in the second quarter, with those contracts stretching to at least 2031. The company in the past quarter said it would invest up to $100 billion in OpenAI and $10 billion in Anthropic, two major customers.
+
+Its high reliance on just a few customers it is entangled with and the circular nature of some of its deals have raised concerns, particularly as none of the entities have reported massive profits from AI yet.
+
+""A lot of this growth is coming from loss-making startups or loss-making projects, so most likely the cycle ends badly unless all these companies agree to stop spending together and let profits shine through, which is a near impossibility,"" said Chaim Siegel, an analyst at research firm Elazar Advisors.
+
+HUANG BRUSHES OFF BUBBLE TALK
+
+During an earnings call, Huang said Nvidia sees something ""very different"" from the market talk of an AI bubble.
+
+He outlined three transitions as part of a vision where Nvidia could reign supreme for years to come.
+
+First, there is the shift of non-AI software such as engineering simulations and data science away from traditional central processors to Nvidia's high-powered chipsets.
+
+Then there is the invention of entirely new categories of software such as coding assistants. And later, he sees AI jumping from virtual applications such as chatbots to the physical world of cars, robots and more.
+
+""These three fundamental dynamics each will contribute to infrastructure growth in the coming years. Nvidia is chosen because our singular architecture enables all three transitions,"" Huang said.
+
+But building all of the required data centers to meet that vision will require an enormous amount of land and power, concerning even Nvidia bulls such as Ivana Delevska, chief investment officer of Spear Invest, which holds the company's shares in an actively managed exchange-traded fund.
+
+Huang addressed those concerns on the conference call, saying Nvidia was working diligently to make sure factors beyond the chip supply chain would not stand in its way.
+
+""We've now established partnerships with so many players in land and power and (data center buildings), and of course, financing these things,"" he said. ""None of these things are easy, but they're all tractable, and they're all solvable things.""
+
+But as companies like Google parent Alphabet and Amazon design their own AI chips and begin to sell them to a similar customer base, some analysts said a looming era of Nvidia maintaining its dominance is far from certain.
+
+""They have said they are sold out for the year and probably next, which leads me to wonder what possible upside surprises they could offer,"" said Jay Goldberg, senior analyst at Seaport Research Partners, which has a ""sell"" rating on Nvidia. ""The list of things that could go wrong for Nvidia is longer than the list of things that could go right."" (Reporting by Arsheeya Bajwa in Bengaluru and Stephen Nellis in San Francisco; Editing by Jamie Freed)",730,730,full,0,True,True,primary,Nvidia Q3 results; customer concentration; bubble debate
+7,NVDA,Nvidia,2025-11-20 12:21:21+00:00,Reuters,US STOCKS-US stock futures jump as Nvidia results ease AI bubble concerns,"(For a Reuters live blog on U.S., UK and European stock markets, click or type LIVE/ in a news window.)
+
+*
+
+Futures up: Dow 0.41%, S&P 500 1.01%, Nasdaq 1.41%
+
+*
+
+September jobs data due later in the day
+
+*
+
+Chip and AI stocks gain on Nvidia results
+
+(Updates after Walmart results)
+
+By Shashwat Chauhan and Twesha Dikshit
+
+Nov 20 (Reuters) - Futures tied to Wall Street's main indexes jumped on Thursday after Nvidia's stellar results quelled some concerns around an AI bubble, boosting technology stocks, while a long-awaited jobs report was also in focus.
+
+Nvidia surged 4.9% in premarket trading after the world's most valuable company forecast sales above analysts' estimates for the final three months of the year and surpassed expectations for third-quarter revenue.
+
+CEO Jensen Huang shrugged off concerns about an AI bubble on a call with analysts, saying, ""We see something very different.""
+
+A year-long rally in high-flying technology stocks had begun to lose some steam as investors became increasingly cautious of a potential AI bubble.
+
+Concerns about monetization prospects over the technology, circular spending within the sector and debt issuance has weighed on markets with the Nasdaq sharply off October highs.
+
+Until last close, the S&P 500 had fallen close to 3% so far in November, while the Nasdaq had lost nearly 5%.
+
+""Right now, the bear thesis is falling apart and the AI trade is very much intact,"" said Daniel Newman, CEO at The Futurum Group.
+
+At 07:07 a.m. ET, Dow E-minis were up 186 points, or 0.41%, S&P 500 E-minis were up 67 points, or 1.01%, and Nasdaq 100 E-minis were up 349.25 points, or 1.41%.
+
+Rival Advanced Micro Devices rose 4.3%, while other chip-related stocks, including Broadcom and Marvell Technology, also recorded strong gains.
+
+Most megacap and growth stocks advanced, with Alphabet up 1.9% and Meta gaining 1.2%.
+
+Walmart raised its annual forecast for the second time this year and also set a December date to change its stock listing to Nasdaq from the NYSE. Shares of the retailer, however, dipped 1.9% in choppy trading.
+
+JOBS DATA IS BACK
+
+The long-delayed jobs report is expected to show that growth likely picked up moderately in September, while the unemployment rate held steady near a four-year high of 4.3%. The report is due at 8:30 a.m. ET and is expected to confirm the significant loss of momentum in the labor market this year.
+
+The U.S. Bureau of Labor Statistics said on Wednesday it would not be publishing its October report, but would combine nonfarm payrolls for that month with November's report after the recently ended government shutdown prevented the collection of data for the household survey.
+
+The September jobs data comes a day after minutes from the Federal Reserve's last policy meeting showed a divided committee on whether to cut interest rates.
+
+Traders are now seeing a 34% chance of a December rate cut, down from about 50% seen a day prior, according to the CME FedWatch Tool.
+
+At least five Fed officials are set to speak later in the day.
+
+Among premarket movers, Palo Alto Networks dropped 3.6% after the cybersecurity firm said it would buy cloud management and monitoring company Chronosphere for $3.35 billion.
+
+(Reporting by Shashwat Chauhan and Twesha Dikshit in Bengaluru; Editing by Anil D'Silva and Krishna Chandra Eluri)",549,549,full,0,True,True,secondary,US futures wrap; Nvidia premarket move and guidance are the lead driver
+9,NVDA,Nvidia,2025-11-20 19:08:56+00:00,Briefing.com,"NVIDIA -2.8% gapped higher following its impressive earnings report last night, but has pulled back into negative territory",,0,0,title_only,0,True,False,primary,Headline only: NVDA reversed to -2.8% after earnings gap-up
+11,NVDA,Nvidia,2025-12-03 19:49:03+00:00,MT Newswires,Nvidia CEO Jensen Huang Reportedly Meets Trump to Discuss Export Controls,"02:49 PM EST, 12/03/2025 (MT Newswires) -- Nvidia (NVDA) Chief Executive Jensen Huang met with President Donald Trump on Wednesday to discuss export controls, according to media reports.
+
+Huang told reporters on Capitol Hill that he supports ensuring US companies ""have the best, the first and the most,"" Bloomberg reported.
+
+Nvidia and the White House did not immediately respond to MT Newswires' request for comment on the matter.
+
+Price: 180.90, Change: -0.56, Percent Change: -0.31",75,61,brief,0,True,True,primary,Huang meets Trump on export controls
+16,NVDA,Nvidia,2025-12-15 17:07:31+00:00,MT Newswires,Nvidia Acquires Workload Management System Developer SchedMD,"12:07 PM EST, 12/15/2025 (MT Newswires) -- Nvidia (NVDA) said Monday it has acquired SchedMD, the developer of Slurm, an open-source workload management system for high-performance computing and artificial intelligence.
+
+Financial details of the transaction were not disclosed.
+
+With the acquisition, Nvidia will continue to develop and distribute Slurm as open-source, vendor-neutral software, the company said.
+
+Shares of the company were up 1.6% in recent Monday trading.
+
+Price: 177.83, Change: +2.81, Percent Change: +1.61",74,60,brief,0,True,True,primary,Nvidia acquires SchedMD (Slurm)
+21,NVDA,Nvidia,2025-12-17 15:04:57+00:00,Reuters,US STOCKS-Wall St inches up as investors eye policy outlook; Oracle slides,"*
+
+Amazon up as reports say it's in talks to invest in OpenAI
+
+*
+
+Warner Bros Discovery board rejects rival bid from Paramount
+
+*
+
+Indexes up: Dow 0.35%, S&P 500 0.11%, Nasdaq 0.08%
+
+(Updates after markets open)
+
+By Johann M Cherian and Shashwat Chauhan
+
+Dec 17 (Reuters) - Wall Street's main indexes were slightly higher in volatile trading on Wednesday as investors searched for clues on the outlook for interest rates, while caution lingered following reports of funding hurdles for Oracle's data center plans.
+
+Oracle fell 2.8% after a report said the cloud company's largest data center partner Blue Owl Capital said it will not back a $10 billion deal for its next facility.
+
+Worries about the broader technology sector turning to debt in trying to achieve its artificial intelligence goals have plagued risk-taking multiple times this quarter. AI bellwether Nvidia lost 1.8% on Wednesday.
+
+At 9:34 a.m. ET, the Dow Jones Industrial Average rose 169.09 points, or 0.35%, to 48,283.35, the S&P 500 gained 7.72 points, or 0.11%, to 6,807.98 and the Nasdaq Composite gained 18.17 points, or 0.08%, to 23,129.63.
+
+Eight of the 11 major S&P subsectors were trading higher, with energy up 0.9%, bouncing back after a near 3% drop in the last session. Crude oil prices jumped on Wednesday as Trump ordered a ""blockade"" of all sanctioned oil tankers entering and leaving Venezuela.
+
+Among Big Tech, Amazon.com gained 0.8% after reports that the company was in talks to invest about $10 billion in ChatGPT maker OpenAI.
+
+In the latest on who could take control of Warner Bros Discovery, the media company's board rejected Paramount Skydance's $108.4 billion hostile bid, favoring Netflix's binding offer.
+
+Netflix's shares rose 2.4%, while Paramount and Warner Bros were down 4.8% and 1.1%, respectively.
+
+Electronic component maker Jabil climbed 6.2% after forecasting annual revenue and profit above estimates, while Lennar shed 3.6% as the homebuilder missed fourth quarter profit estimates.
+
+WHAT THE FED THINKS
+
+Offering some relief for investors was Federal Reserve Governor Christopher Waller, often viewed as a dove on monetary policy. He said that the central bank still had room to cut interest rates against a softening jobs market.
+
+The S&P 500 hit a three-week low on Tuesday after a key jobs report failed to offer enough clarity on the health of the labor market and analysts pointed to the likelihood of data distortion due to the recent government shutdown.
+
+Mike O'Rourke, chief market strategist at JonesTrading, said ""in this environment, the Fed is not in position to ease unless the economy deteriorates. Economic deterioration from nearly stalled levels in the job market would be decidedly negative.""
+
+The next significant report will be Thursday's consumer inflation data by the Commerce Department.
+
+With two weeks left in the year, Wall Street is set to log its third straight set of annual gains, buoyed by rate cut expectations and enthusiasm over artificial intelligence.
+
+However, concerns over tech valuations have sparked a rotation into small caps and other areas of the market including healthcare and banks.
+
+Advancing issues outnumbered decliners by a 1.33-to-1 ratio on the NYSE and by a 1.69-to-1 ratio on the Nasdaq.
+
+The S&P 500 posted three new 52-week highs and no new lows, while the Nasdaq Composite recorded 23 new highs and 32 new lows. (Reporting by Johann M Cherian and Shashwat Chauhan in Bengaluru; Editing by Maju Samuel)",560,560,full,0,False,True,peripheral,US market wrap on Oracle funding worries; Nvidia -1.8% in one sentence
+29,NVDA,Nvidia,2025-12-26 04:29:28+00:00,Reuters,"EMERGING MARKETS-Asian equities set for strong weekly gains; Taiwan, S.Korea lead tech-driven surge","* Taiwan stocks hit record high, up nearly 3% this week * South Korean stocks hit two week-high, up 3% this week * South Korean won eyes best week since November 2022 By Rajasik Mukherjee Dec 26 (Reuters) - Most Asian equities were headed fortheir best week in more than a month on Friday, buoyed by arally in technology shares, with Taiwan's benchmark indexhitting a record high and South Korea's KOSPI climbing to atwo-week peak. A robust rally in artificial intelligence-related stocks hasbeen a key driver behind the surge in Taiwan and South Koreanstocks, with heavyweight chipmakers and tech suppliersbenefiting from robust demand for AI infrastructure. An MSCI gauge of emerging Asian equitiesinched 0.1% higher on Friday, heading for a 1.7% gain this weekin what could be its best week since late November. South Koreaand Taiwan make up 40% of the index. Taiwan equities rose as much as 0.8% in its fifthstraight session of gains and hit a record high of 28,590.91.The benchmark has gained nearly 3% so far this week, poised forits best week since late November. South Korea's KOSPI climbed as much as 0.8% to itshighest level since December 12. It has risen 3% this week, setfor its strongest week since early December. ""We expect Korean equities to post further gains nextyear... continued momentum in technology stocks will remain theprincipal driver, as global investment in AI infrastructurecontinues,"" Gareth Leather, senior Asia economist at CapitalEconomics, said in an earlier note. Among other stock markets, Singapore traded largelyflat but was on track for its best week since October-end with a1.5% gain. Philippine stocks rose 0.4%, heading for a 2.4%weekly gain in what could be their best week since lateNovember. Malaysian equities slipped 0.3% on Friday but wereup 0.5% for the week. Among currencies, the Malaysian ringgit rose 0.3%,hitting its highest point since 2021. The region's best currencyof 2025 has appreciated more than 1% this week, eyeing its bestweek since mid-May. ""The ringgit continues to benefit from Malaysia's stablemacro backdrop, ongoing structural reforms and selectiveinvestor flows,"" analysts at Kenanga Investment Bank said in anearlier note. ""While episodic global volatility may introduce temporaryswings, the combination of policy credibility, export inflowsunderpins a bullish medium-term outlook for the ringgit."" South Korea's won rose as much as 1% to hit itshighest level since November 6. For the week, the currency hasrisen 3.1%, eyeing its best week since November 2022, largelybenefiting from the national pension fund's steps to support thecurrency. Elsewhere in the region, the Thai baht was largelyunchanged but has appreciated nearly 1.3% this week in whatcould be its best since October-end. Singapore's dollar traded largely flat but was headedfor its best week in more than a month, while the Philippinepeso was tracking a weekly loss of 0.3%. Indonesian markets were closed on Friday for a holiday. HIGHLIGHTS: ** Core inflation in Japan's capital slows in December butno bar for further BOJ hikes ** Political stability at stake as Malaysia's Najib awaitsverdict in biggest 1MDB trial ** Philippines forecasts 2025 current account deficit at3.2% of GDP Asia stock indexes and currencies at 0322 GMT COUNTRY FX RIC FX DAILY FX YTD % INDEX STOCKS STOCKS % DAILY YTD % % Japan -0.28 +0.61 1.01 27.63 China India 0.00 -4.64 0.00 10.56 Indonesi - -3.94 - 20.59 a Malaysia +0.25 +10.79 -0.37 1.82 Philippi -0.03 -1.16 0.24 -7.24 nes S.Korea Singapor -0.14 +6.32 0.01 22.41 e Taiwan +0.10 +4.24 0.54 23.83 Thailand -0.06 +10.46 -0.13 -9.79 (Reporting by Rajasik Mukherjee in Bengaluru; Editing bySubhranshu Sahu)",579,579,full,16,False,False,none,Asian EM wrap on AI-driven tech rally; Nvidia never mentioned
+42,NVDA,Nvidia,2026-01-13 11:20:52+00:00,MT Newswires,Update: Market Chatter: Nvidia Says No Upfront Payment Required for H200 Chips,"06:20 AM EST, 01/13/2026 (MT Newswires) -- (Update to add Nvidia's comment in the second paragraph.)
+
+Nvidia (NVDA) doesn't require upfront payment for its H200 chips, a company spokesperson told Reuters on Tuesday following the outlet's report that it imposed unusually strict payment terms on Chinese customers.
+
+""We do not require upfront payment and would never require customers to pay for products that they do not receive"", Nvidia's spokesperson told MT Newswire in an email statement.
+
+Reuters reported last week that the chipmaker has been more stringent with H200 orders due to uncertainty over whether Chinese regulators will approve shipments.
+
+(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)",130,93,brief,0,True,True,primary,Nvidia denies requiring upfront payment for H200 chips in China
+13,SCHW,Charles Schwab,2025-12-08 17:33:02+00:00,Briefing.com,"Charles Schwab Trading Activity Index increased to 48.75 in November, up from its score of 48.12 in October","The only index of its kind, the STAX is a proprietary, behavior-based index that analyzes retail investor stock positions and trading activity from Schwab's millions of client accounts to illuminate what investors were actually doing and how they were positioned in the markets each month.The government shutdown that began in October and continued into November meant investors had to rely on private sector labor market data, all of which showed slowing economic and consumer sentiment. Major indexes spent much of November losing ground amid weakness in Magnificent Seven names and cryptocurrencies, hurt partly by falling hopes for a December rate cut by the Federal Reserve. However, the market got a significant boost toward the end of the month when New York Federal Reserve President John Williams signaled a preference for a rate cut in December, bringing the likelihood of a cut from a low of 40% into the high-80s according to the CME FedWatch Tool. 
+As in October, the most aggressively positioned investors tracked by Schwab during November again belonged to Generation X, born between 1965 and 1980. Among the least aggressive was Generation Z, born between 1997 and 2012. 
+Popular names bought by Schwab clients during the period included: NVIDIA Corp. (NVDA), Palantir Technologies Inc. (PLTR), Meta Platforms Inc. (META), Amazon.com Inc. (AMZN) and Tesla Inc. (TSLA). 
+Names net sold by Schwab clients during the period included: Apple Inc. (AAPL), Broadcom Inc. (AVGO), Eli Lilly and Co. (LLY), Intel Corp. (INTC) and Rivian Automotive Inc. (RIVN).",247,247,full,0,True,True,primary,Schwab Trading Activity Index rose to 48.75 in November
+20,SCHW,Charles Schwab,2025-12-17 14:22:19+00:00,MT Newswires,"Deutsche Bank Adjusts Price Target on Charles Schwab to $128 From $121, Maintains Buy Rating","09:22 AM EST, 12/17/2025 (MT Newswires) -- Charles Schwab Corp (SCHW) has an average rating of overweight and mean price target of $112.65, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",56,22,analyst_note,0,True,True,primary,Deutsche Bank raises SCHW PT to $128 (headline); body is FactSet consensus boilerplate
+25,SCHW,Charles Schwab,2025-12-23 07:05:03+00:00,Reuters,"U.S. RESEARCH ROUNDUP-APi Group, Elf Beauty, Tesla","Dec 23 (Reuters) - Wall Street securities analysts revised their ratings and price targets on several U.S.-listedcompanies, including APi Group, Elf Beauty and Tesla, on Tuesday. HIGHLIGHTS * [APi Group Corp](https://client.schwab.com/app/research/#/symbol/APG) : RBC raises target price to $45 from $40 * [Elf Beauty Inc](https://client.schwab.com/app/research/#/symbol/ELF) : Jefferies cuts target price to $110 from $120 * [KB Home](https://client.schwab.com/app/research/#/symbol/KBH) : KBW cuts target price to $62 from $67 * [Nasdaq Inc](https://client.schwab.com/app/research/#/symbol/NDAQ) : Morgan Stanley raises target price to $111.00 from $110.00 * [Tesla Inc](https://client.schwab.com/app/research/#/symbol/TSLA) : Canaccord Genuity raises target price to $551 from $482 Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday. Stock entries are inalphabetical order. * [APi Group Corp](https://client.schwab.com/app/research/#/symbol/APG) : RBC raises target price to $45 from $40 * Arrowhead Pharmaceuticals : Jefferies raises target price to $90 from $67 * [Block Inc](https://client.schwab.com/app/research/#/symbol/XYZ) : Raymond James raises target price to $83 from $81 * [CBOE Global Markets Inc](https://client.schwab.com/app/research/#/symbol/CBOE) : Morgan Stanley raises PT to $240.00 from $221.00 * [Charles Schwab Corp](https://client.schwab.com/app/research/#/symbol/SCHW) : Morgan Stanley raises target price to $148.00 from $139.00 * [CME Group Inc](https://client.schwab.com/app/research/#/symbol/CME) : Morgan Stanley raises target price to $320.00 from $314.00 * Elf Beauty Inc : Jefferies cuts target price to $110 from $120 * Estée Lauder : Jefferies raises target price to $100 from $90 * [Gemini Space Station Inc](https://client.schwab.com/app/research/#/symbol/GEMI) : Morgan Stanley cuts target price to $13.00 from $29.00 * [Intercontinental Exchange Inc](https://client.schwab.com/app/research/#/symbol/ICE) : Morgan Stanley raises PT to $174.00 from $169.00 * [KB Home](https://client.schwab.com/app/research/#/symbol/KBH) : KBW cuts target price to $62 from $67 * Kodiak Sciences Inc : Jefferies raises target price to $39 from $24 * [LPL Financial Holdings Inc](https://client.schwab.com/app/research/#/symbol/LPLA) : Morgan Stanley cuts PT to $447.00 from $462.00 * [Marketaxess Holdings Inc](https://client.schwab.com/app/research/#/symbol/MKTX) : Morgan Stanley cuts target price to $204.00 from $209.00 * Meta : Baird cuts target price to $815 from $820 * Monster Beverage Corp : Morgan Stanley raises target price to $87 from $81 * [Nasdaq Inc](https://client.schwab.com/app/research/#/symbol/NDAQ) : Morgan Stanley raises target price to $111.00 from $110.00 * [Raymond James Financial Inc](https://client.schwab.com/app/research/#/symbol/RJF) : Morgan Stanley raises PT to $187.00 from $185.00 * [Rollins Inc](https://client.schwab.com/app/research/#/symbol/ROL) : RBC raises target price to $70 from $62 * [Tesla Inc](https://client.schwab.com/app/research/#/symbol/TSLA) : Canaccord Genuity raises target price to $551 from $482 * Tradeweb Markets Inc : Morgan Stanley raises target price to $119.00 from $118.00 * [Viridian Therapeutics Inc](https://client.schwab.com/app/research/#/symbol/VRDN) : Needham raises target price to $42 from $34 * [Virtu Financial Inc](https://client.schwab.com/app/research/#/symbol/VIRT) : Morgan Stanley cuts target price to $35.00 from $36.00 * [Whitehawk Therapeutics Inc](https://client.schwab.com/app/research/#/symbol/WHWK) : Jonestrading Initiates coverage with buy rating; PT $7 * [Winnebago Industries Inc](https://client.schwab.com/app/research/#/symbol/WGO) : D.A. Davidson raises target price to $40 from $38 (Compiled by Bengaluru Newsroom)",446,446,full,16,False,True,peripheral,Research roundup; one line: Morgan Stanley raises SCHW target to $148
+26,SCHW,Charles Schwab,2025-12-23 18:08:35+00:00,Briefing.com,"Charles Schwab will match the U.S. government's one-time $1,000 contribution to eligible newborn children of Schwab's U.S. employees, providing an additional $1,000 per eligible child",,0,0,title_only,0,True,False,primary,Headline only: Schwab to match $1000 government contribution for employees' newborns
+32,SCHW,Charles Schwab,2026-01-05 17:33:09+00:00,Briefing.com,"Charles Schwab: The Schwab Trading Activity Index (STAX) decreased to 48.48 in December, down from its score of 48.75 in November","During the December STAX period, which ended on the 26th of the month, the STAX broke a three-month streak of outpacing the S&P 500 index, which itself only rose 1.18%. Clients were net sellers during the period, but movement within the STAX Index was minimal, with much of the selling occurring during the holiday-shortened final week and more likely to represent end-of-year repositioning activity than a major sentiment change. At the sector level, Information Technology went from the largest net-buy in November to biggest net-sell in December, while Consumer Discretionary saw the second-most net selling, followed by Health Care, Industrials, and Energy. Major U.S. indexes set all-time highs on December 26, the very end of the STAX period, but those new heights represented just a slight increase from both earlier in the month and the previous highs set back in October. December saw a widely-anticipated rate cut from the Federal Reserve-its third since September-and a surprisingly strong third quarter gross domestic product growth figure alongside a softer-than-expected Consumer Price Index for November. The most aggressively positioned investors tracked by Schwab during December again belonged to Generation X, born between 1965 and 1980. Among the least aggressive was Generation Z, born between 1997 and 2012. Popular names bought by Schwab clients during the period included: Netflix Inc. (NFLX) NVIDIA Corp. (NVDA) Broadcom Inc. (AVGO) Amazon.com Inc. (AMZN) Alphabet Inc. (GOOG) Names net sold by Schwab clients during the period included: Tesla Inc. (TSLA) Palantir Technologies Inc. (PLTR) Intel Corp. (INTC) Warner Bros Discovery Inc. (WBD) Rivian Automotive Inc. (RIVN)",258,258,full,0,True,True,primary,Schwab Trading Activity Index fell to 48.48 in December
+33,SCHW,Charles Schwab,2026-01-06 07:53:52+00:00,Reuters,"U.S. RESEARCH ROUNDUP-Brunswick, Parker-Hannifin, XPLR Infrastructure","Jan 6 (Reuters) - Wall Street securities analysts revised their ratings and pricetargets on several U.S.-listed companies, including Brunswick, Parker-Hannifin and XPLRInfrastructure, on Tuesday. HIGHLIGHTS * [Brunswick Corp](https://client.schwab.com/app/research/#/symbol/BC) : Jefferies raises to buy from hold * [Dakota Gold Corp](https://client.schwab.com/app/research/#/symbol/DC) : H.C. Wainwright initiates coverage with buy rating * [Parker-Hannifin Corp](https://client.schwab.com/app/research/#/symbol/PH) : JP Morgan initiates coverage with overweight rating * [Wealthfront Corp](https://client.schwab.com/app/research/#/symbol/WLTH) : RBC initiates coverage with outperform rating * [XPLR Infrastructure LP](https://client.schwab.com/app/research/#/symbol/XIFR) : RBC resumes coverage with outperform rating Following is a summary of research actions on U.S. companies reported by Reuters on Monday.Stock entries are in alphabetical order. * [Agios Pharmaceuticals Inc](https://client.schwab.com/app/research/#/symbol/AGIO) : JP Morgan raises target price to $25 from $20 * Albemarle : Berenberg raises target price to $135 from $75 * Bed Bath & Beyond Inc : Jefferies cuts target price to $7 from $9 * [Brunswick Corp](https://client.schwab.com/app/research/#/symbol/BC) : Jefferies raises to buy from hold * [Brunswick Corp](https://client.schwab.com/app/research/#/symbol/BC) : Jefferies raises target price to $115 from $65 * [Casella Waste Systems Inc](https://client.schwab.com/app/research/#/symbol/CWST) : Jefferies raises to buy from hold * Casella Waste Systems Inc : Jefferies raises target price to $120 from $100 * [Charles Schwab Corp](https://client.schwab.com/app/research/#/symbol/SCHW) : Jefferies raises target price to $121 from $114 * ?[Cintas Corp](https://client.schwab.com/app/research/#/symbol/CTAS) : Jefferies cuts target price to $210 from $215 * [Dakota Gold Corp](https://client.schwab.com/app/research/#/symbol/DC) : H.C. Wainwright initiates coverage with buy rating * [Dakota Gold Corp](https://client.schwab.com/app/research/#/symbol/DC) : H.C. Wainwright initiates coverage with target price $9.75 * Expeditors International of Washington : Baird raises target price to $157 from $133 * [Freeport-Mcmoran Inc](https://client.schwab.com/app/research/#/symbol/FCX) : Jefferies raises target price to $68 from $55 * Goldman Sachs : Jefferies raises target price to $1,087 from $898 * [Hub Group Inc](https://client.schwab.com/app/research/#/symbol/HUBG) : Baird raises target price to $47 from $42 * [Interactive Brokers Group Inc](https://client.schwab.com/app/research/#/symbol/IBKR) : Jefferies raises target price to $83 from $80 * [LPL Financial Holdings Inc](https://client.schwab.com/app/research/#/symbol/LPLA) : Jefferies raises target price to $426 from $391 * [Manpowergroup Inc](https://client.schwab.com/app/research/#/symbol/MAN) : Jefferies cuts target price to $32 from $40 * Microchip Technology : JP Morgan raises target price to $85 from $77 * [Morgan Stanley](https://client.schwab.com/app/research/#/symbol/MS) : Jefferies raises target price to $212 from $186 * [Nike Inc](https://client.schwab.com/app/research/#/symbol/NKE) : RBC cuts target price to $78 from $85 * [Parker-Hannifin Corp](https://client.schwab.com/app/research/#/symbol/PH) : JP Morgan initiates coverage with overweight rating * ?[Parker-Hannifin Corp](https://client.schwab.com/app/research/#/symbol/PH) : JP Morgan initiates coverage with target price $1,050 * [Raymond James Financial Inc](https://client.schwab.com/app/research/#/symbol/RJF) : Jefferies cuts target price to $166 from $173 * [Rollins Inc](https://client.schwab.com/app/research/#/symbol/ROL) : Jefferies raises target price to $69 from $66 * [Schneider National Inc](https://client.schwab.com/app/research/#/symbol/SNDR) : Baird raises target price to $30 from $27 * Travelers : Jefferies resumes coverage with hold rating; target price $310 * Verisign Inc : JP Morgan raises target price to $271 from $270 * [Wealthfront Corp](https://client.schwab.com/app/research/#/symbol/WLTH) : RBC initiates coverage with outperform rating * [Wealthfront Corp](https://client.schwab.com/app/research/#/symbol/WLTH) : RBC initiates coverage with target price $17 * [XPLR Infrastructure LP](https://client.schwab.com/app/research/#/symbol/XIFR) : RBC resumes coverage with outperform rating * [XPLR Infrastructure LP](https://client.schwab.com/app/research/#/symbol/XIFR) : RBC resumes coverage with target price $14 * Zenas Biopharma Inc : Jefferies cuts target price to $48 from $62 (Compiled by Bengaluru Newsroom)",513,513,full,14,False,True,peripheral,Research roundup; one line: Jefferies raises SCHW target to $121
+35,SCHW,Charles Schwab,2026-01-06 11:51:21+00:00,MT Newswires,"Raymond James Adjusts PT on Charles Schwab to $114 From $110, Maintains Outperform Rating","06:51 AM EST, 01/06/2026 (MT Newswires) -- Charles Schwab (SCHW) has an average rating of overweight and mean price target of $116, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",55,21,analyst_note,0,True,True,primary,Raymond James raises SCHW PT to $114 (headline); body is FactSet consensus boilerplate
+36,SCHW,Charles Schwab,2026-01-06 12:01:41+00:00,MT Newswires,"Goldman Sachs Adjusts Price Target on Charles Schwab to $116 From $114, Maintains Buy Rating","07:01 AM EST, 01/06/2026 (MT Newswires) -- Charles Schwab Corp (SCHW) has an average rating of overweight and mean price target of $116, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",56,22,analyst_note,0,True,True,primary,Goldman Sachs raises SCHW PT to $116 (headline); body is FactSet consensus boilerplate
+46,SCHW,Charles Schwab,2026-01-14 11:07:40+00:00,MT Newswires,"TD Cowen Adjusts Price Target on Charles Schwab to $135 From $134, Maintains Buy Rating","06:07 AM EST, 01/14/2026 (MT Newswires) -- Charles Schwab (SCHW) has an average rating of overweight and mean price target of $119.29, according to analysts polled by FactSet.
+
+(MT Newswires covers equity, commodity and economic research from major banks and research firms in North America, Asia and Europe. Research providers may contact us here: https://www.mtnewswires.com/contact-us)",55,21,analyst_note,0,True,True,primary,TD Cowen raises SCHW PT to $135 (headline); body is FactSet consensus boilerplate
+3,XOM,Exxon Mobil,2025-11-18 15:06:36+00:00,MT Newswires,"Market Chatter: Exxon Mobil, QatarEnergy Joint Venture Targets LNG Exports by February","10:06 AM EST, 11/18/2025 (MT Newswires) -- Exxon Mobil's (XOM) Golden Pass LNG joint venture with QatarEnergy is aiming for February to load its first liquefied natural gas cargo, Bloomberg reported Tuesday, citing people familiar with the matter.
+
+The target date could change due to the complexity of LNG production at export facilities, according to the report. Exxon said previously that Golden Pass was targeting the end of the year for its first LNG production, Bloomberg said.
+
+QatarEnergy owns 70% of Golden Pass LNG, while Exxon Mobil owns 30%.
+
+Exxon Mobil did not immediately respond to a request for comment from MT Newswires.
+
+(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)
+
+Price: 117.51, Change: -0.18, Percent Change: -0.15",140,96,brief,0,True,True,primary,Golden Pass LNG (30% Exxon) targets first cargo in February
+4,XOM,Exxon Mobil,2025-11-18 18:37:57+00:00,Reuters,"Exxon joins Chevron in pursuing parts of Lukoil global empire, sources say","By Anna Hirtenstein, Shariq Khan and Jarrett Renshaw
+
+LONDON/NEW YORK, Nov 18 (Reuters) - U.S. oil major Exxon Mobil has joined rival [Chevron Corp](https://client.schwab.com/app/research/#/symbol/CVX) in considering options to buy parts of sanctioned Russian oil major Lukoil's international assets, sources familiar with the matter said.
+
+Exxon is considering options for Lukoil assets in Kazakhstan, where both the U.S. and the Russian firm have stakes in the Karachaganak and Tengiz fields, the sources said. Chevron, another partner in these assets, is also studying options to buy them, Reuters reported on Monday.
+
+Exxon might also study a potential bid for the West Qurna 2 field in Iraq, which is operated by Lukoil and is the Russian firm's most-prized asset, two of the sources said. The U.S. company had long been the operator of the neighboring West Qurna 1 project before exiting last year.
+
+Exxon declined to comment.
+
+The list of potential bidders for Lukoil's global assets has been growing since the U.S. Treasury on Friday gave clearance to companies to begin talks with Lukoil. The authorization lasts through December 13.
+
+Bloomberg reported on Exxon and Abu Dhabi National Oil Company interest in Lukoil assets earlier on Tuesday.
+
+U.S. private equity firm Carlyle is among those exploring options to buy Lukoil's foreign assets, sources told Reuters last week.
+
+Lukoil has three refineries in Europe, stakes in oilfields in Kazakhstan, Uzbekistan, Iraq, Mexico, Ghana, Egypt and Nigeria, and hundreds of retail fuel stations around the world, including in the United States.
+
+The company's foreign assets extract about 0.5% of global oil, based on 2024 filing. (Reporting by Shariq Khan, Anna Hirtenstein and Jarrett Renshaw; Additional reporting by Dmitry Zhdannikov, Sheila Dang, Shadia Nasralla, Jarrett Renshaw and Maha El Dahan; Editing by Bill Berkrot)",288,288,full,0,True,True,primary,Exxon considering bids for Lukoil assets in Kazakhstan and Iraq
+8,XOM,Exxon Mobil,2025-11-20 15:16:13+00:00,Reuters,Deals of the day-Mergers and acquisitions,"(Adds: Solventum, Abbott, Enterprise Products Partners, Generali Updates:)
+
+Nov 20 (Reuters) - The following bids, mergers, acquisitions and disposals were reported by 1430 GMT on Thursday:
+
+** Medical device maker Solventum <
+
+SOLV.N
+
+> said it would acquire privately held Acera Surgical for up to $850 million to expand its wound-care portfolio.
+
+** Enterprise Products Partners <
+
+EPD.N
+
+> said that Exxon Mobil <
+
+XOM.N
+
+> will buy a 40% stake in its Bahia natural gas liquids pipeline and help expand the system to handle growing Permian Basin volumes.
+
+** Abbott <
+
+ABT.N
+
+> said it would buy cancer-test maker Exact Sciences <
+
+EXAS.O
+
+> in a deal valued at up to $23 billion, including debt, marking one of its largest acquisitions in nearly a decade and its first major push into cancer screening.
+
+** Insurer Generali <
+
+GAS.MI
+
+>, Milan-listed BFF Bank <
+
+BFF.MI
+
+> and France's BPCE have advanced to the second round of bidding to acquire European life-insurance consolidator GamaLife from Apax Partners, two sources familiar with the matter said.
+
+** Palo Alto Networks said it will buy cloud management and monitoring company Chronosphere for $3.35 billion, as the cybersecurity firm looks to strengthen its AI offerings. (Compiled by Rajarshi Roy and Arnav Mishra in Bengaluru)",209,209,full,0,False,True,secondary,M&A roundup; one item is Exxon buying 40% of Enterprise's Bahia NGL pipeline
+10,XOM,Exxon Mobil,2025-12-02 07:28:56+00:00,Reuters,"EXCLUSIVE-Exxon Mobil approached Iraq about buying Lukoil's West Qurna oilfield stake, sources say","Dec 2 (Reuters) - Exxon Mobil has approached the Iraqi oil ministry to express its interest in buying Russian firm Lukoil's majority stake in the giant West Qurna 2 oilfield, five Iraqi official sources with direct knowledge of the matter told Reuters.
+
+Exxon declined to comment and Lukoil didn't immediately respond to a Reuters' request for comment on the matter. (Reporting by Ahmed Rasheed and Aref Mohammed Editing by Bernadette Baum)",71,71,brief,0,True,True,primary,Exxon approached Iraq about Lukoil's West Qurna 2 stake
+17,XOM,Exxon Mobil,2025-12-15 18:11:04+00:00,Reuters,"EXCLUSIVE-U.S. Treasury rejects Xtellus-led bid for Lukoil assets, sources say","(Adds detail and background from paragraph 2)
+
+By Jarrett Renshaw, David Gauthier-Villars and Anna Hirtenstein
+
+LONDON, Dec 15 (Reuters) - The U.S. Treasury has rejected an offer from a group led by U.S. bank Xtellus Partners for the foreign assets of Russian oil company Lukoil, three people close to the matter told Reuters.
+
+Xtellus had been competing against U.S. oil majors Exxon Mobil and Chevron, Abu Dhabi group International Holding Company, Hungary's MOL and U.S. private equity firm Carlyle, all of which still remain in the race.
+
+The U.S. Treasury declined to comment.
+
+Lukoil offered to sell the assets after the U.S. imposed sanctions on it and Kremlin-controlled rival Rosneft in October to try to push Russia towards a peace deal with Ukraine.
+
+More than a dozen companies have bid for Lukoil's assets, which are valued at about $22 billion. The assets include upstream oil and gas projects, refining and more than 2,000 filling stations across Europe, Central Asia, the Middle East and the Americas.
+
+Xtellus had offered to organise a swap of Lukoil securities held by U.S. investors in a cashless deal to return them to Lukoil in exchange for the Russian company's global assets, sources told Reuters.
+
+The sources said Lukoil had favoured the Xtellus bid but it was complex to execute. Xtellus is advising bid partners American billionaire Todd Boehly and Emirati investor group Allied Investment Partners.
+
+U.S. investment funds own large holdings of Lukoil shares that were frozen and written down after Russia's 2022 invasion of Ukraine, losing the funds billions of dollars. The idea was to transfer the shares back to Lukoil in exchange for the assets, sell the assets to energy companies and pay the investors.
+
+Last week the U.S. extended the deadline for negotiations with Lukoil to January 17. (Reporting by Jarrett Renshaw, David Gauthier-Villars and Anna Hirtenstein Writing by Dmitry Zhdannikov Editing by Tomasz Janowski and David Goodman)",316,316,full,0,False,True,peripheral,Treasury rejects Xtellus bid for Lukoil; Exxon listed as a remaining bidder
+18,XOM,Exxon Mobil,2025-12-16 15:57:32+00:00,Briefing.com,Sector Briefing: Energy,"The S&P 500 (-0.3%) is off to a lower start with nine sectors holding early losses and energy (-2.4%) sitting at the bottom of the early leaderboard.
+
+Key factors driving today's performance include:
+
+Pressure from a lower price of oil as WTI crude slides past its 2025 low, falling $1.76, or 3.10%, to $55.06/bbl. This puts oil on track for its lowest pit close since early 2021 amid growing hopes for a Russia-Ukraine peace deal that will be acceptable to both sides, which would likely set the path for Russia's return to the global oil market. Downside leadership from names like Halliburton (HAL 27.11, -1.30, -4.58%), Phillips 66 (PSX 136.30, -5.21, -3.68%), and ConocoPhillips (COP 91.08, -3.28, -3.48%) deepen their recent reversals from multi-week highs.
+
+Notable movers:
+
+APA (APA 24.01, -1.26, -5.01%): weakest performer in the sector, falling back below its 50-day moving average (24.13). Diamondback Energy (FANG 146.84, -7.22, -4.69%): falling to its 50-day moving average (24.13). Halliburton (HAL 27.11, -1.30, -4.58%): deepening last week's reversal from its best level since January. Phillips 66 (PSX 136.30, -5.21, -3.68%): falling back to its 50-day moving average (135.84), continuing last week's reversal from its best level since August 2024. Baker Hughes (BKR 45.21, -1.68, -3.58%): falling to its lowest level since late October after finding resistance at its 50-day moving average (47.76). Company and Hunt Oil Company announced a joint framework for redevelopment of mature oil and gas fields. ConocoPhillips (COP 91.08, -3.28, -3.48%): falling past its 200-day moving average (92.26) toward its 50-day moving average (89.64). Johnson Rice downgraded the stock to Hold from Accumulate with a $105 target. Marathon Petroleum (MPC 179.15, -6.36, -3.43%): on track for its lowest close since late August. EQT Corp (EQT 53.29, -1.88, -3.41%): falling back below its 200-day moving average (54.03). Occidental Petroleum (OXY 38.86, -1.33, -3.31%): falling to its lowest level since early May. Valero (VLO 163.36, -4.54, -2.70%): falling to its lowest level in nearly two months. Exxon Mobil (XOM 115.18, -2.58, -2.20%): falling back below its 50-day moving average (115.69). Chevron (CVX 147.09, -2.71, -1.81%): on track for its lowest close since early July.  Kinder Morgan (KMI 26.43, -0.29, -1.10%): best performer in the sector, on track for its lowest close in nearly six weeks.",375,375,full,0,False,True,peripheral,"Energy sector briefing; XOM one line (-2.2%, below 50-day MA)"
+27,XOM,Exxon Mobil,2025-12-24 15:45:22+00:00,MT Newswires,Market Chatter: Russian President Extends Exxon Mobil's Sakhalin 1 Stake Sale Deadline,"10:45 AM EST, 12/24/2025 (MT Newswires) -- Russian President Vladimir Putin has pushed the deadline for ExxonMobil (XOM) to sell its stake in the Sakhalin-1 project to Jan. 1, 2027, Reuters reported Wednesday, citing a decree issued by the country's government.
+
+Putin previously authorized foreign shareholders to reclaim their stakes in Sakhalin-1 in an August decree, Reuters reported.
+
+Exxon recorded a $4.6 billion impairment charge on its 30% stake in the oil and gas project in April 2022, the news outlet reported.
+
+Exxon and Rosneft had signed a preliminary deal to help Exxon recover losses, Reuters had reported in September, citing two sources.
+
+Japan's SODECO and India's ONGC Videsh were partner investors along with Exxon and Rosneft, according to the report.
+
+ExxonMobil, Rosneft, ONGC Videsh, and SODECO did not immediately respond to MT Newswires' request for comment.
+
+(Market Chatter news is derived from conversations with market professionals globally. This information is believed to be from reliable sources but may include rumor and speculation. Accuracy is not guaranteed.)
+
+Price: 119.73, Change: +0.30, Percent Change: +0.26",174,130,brief,0,True,True,primary,Putin extends Exxon's Sakhalin-1 stake sale deadline to Jan 2027
+37,XOM,Exxon Mobil,2026-01-07 21:48:57+00:00,Reuters,UPDATE 2-Exxon signals fall in fourth-quarter upstream profit,"(Adds details in paragraphs 4 to 7)
+
+Jan 7 (Reuters) - U.S. oil major Exxon Mobil said on Wednesday that lower crude oil prices could cut its fourth-quarter upstream earnings by about $800 million to $1.2 billion.
+
+Oil prices declined 9.2% during the three months ended December 31, as concerns about oversupply and tariffs outweighed geopolitical risks.
+
+Brent crude futures shed about 19% in 2025, the most substantial annual percentage decline since 2020 and their third straight year of losses, the longest such streak on record. U.S. West Texas Intermediate crude logged an annual decline of almost 20%.
+
+The company said in a regulatory filing that changes in gas prices could affect its quarterly upstream earnings from a negative $300 million to as much as a positive $100 million.
+
+Exxon's snapshot is closely watched for clues on how the broader oil sector will fare when companies begin releasing quarterly results in a few weeks.
+
+Analysts expect Exxon to report adjusted earnings of $1.66 per share for the fourth quarter, according to data compiled by LSEG.
+
+The company will release results for the final quarter of the year on January 30, the filing showed.
+
+The energy major had posted $5.7 billion in upstream earnings for the third quarter. (Reporting by Pooja Menon in Bengaluru; Editing by Shilpi Majumdar and Anil D'Silva)",220,220,full,16,True,True,primary,Exxon flags $0.8-1.2B Q4 upstream earnings hit from lower oil prices
+40,XOM,Exxon Mobil,2026-01-12 00:45:00+00:00,Associated Press,Trump 'inclined' to keep ExxonMobil out of Venezuela after CEO response at White House meeting,"ABOARD AIR FORCE ONE (AP) — President Donald Trump said Sunday that he is “inclined” to keep ExxonMobil out of Venezuela after its top executive was skeptical about oil investment efforts in the country after the toppling of former President Nicolás Maduro.
+
+“I didn’t like Exxon’s response,” Trump said to reporters on Air Force One as he departed West Palm Beach, Florida. “They’re playing too cute.”
+
+During a [meeting Friday](https://apnews.com/article/trump-venezuela-oil-chevron-exxonmobil-conocophillips-0e0619a991e92fd546504f1a613161e7) with oil executives, Trump tried to assuage the concerns of the companies and said they would be dealing directly with the U.S., rather than the Venezuelan government.
+
+Some, however, weren’t convinced.
+
+“If we look at the commercial constructs and frameworks in place today in Venezuela, today it’s uninvestable,” said Darren Woods, CEO of ExxonMobil, the largest U.S. oil company.
+
+An ExxonMobil spokesperson did not immediately respond Sunday to a request for comment.
+
+Also on Friday, Trump signed an executive order that seeks to ensure that Venezuelan oil revenue remains protected from being used in judicial proceedings.
+
+The executive order, made public on Saturday, says that if the funds were to be seized for such use, it could “undermine critical U.S. efforts to ensure economic and political stability in Venezuela.” Venezuela has a history of state asset seizures, ongoing U.S. sanctions and decades of political uncertainty.
+
+Getting U.S. oil companies to invest in Venezuela and help rebuild the country’s infrastructure is a top priority of the Trump administration after Maduro's capture.
+
+The White House is framing the effort to “run” Venezuela in economic terms, and Trump has seized tankers carrying Venezuelan oil, has said the U.S. is taking over the sales of 30 million to 50 million barrels of previously sanctioned Venezuelan crude, and plans to control sales worldwide indefinitely.
+
+\_\_\_
+
+Kim reported from West Palm Beach, Florida.",297,297,full,0,True,True,primary,Trump inclined to keep Exxon out of Venezuela after CEO calls it uninvestable
+41,XOM,Exxon Mobil,2026-01-12 19:30:54+00:00,Reuters,"Carlyle, Chevron-Quantum partnership among frontrunners for Lukoil assets, sources say","By Anna Hirtenstein, Shariq Khan and Timothy Gardner
+
+LONDON/NEW YORK/WASHINGTON, Jan 12 (Reuters) - Private equity giant Carlyle, a group comprising oil major Chevron and Quantum Capital Group as well as UAE-based investor International Holding Company are competing for the global assets of Russia's Lukoil as a U.S. deadline to sell them expires this week, sources said. The United States imposed sanctions on Lukoil and its peer Rosneft in October to push the Kremlin to a peace deal with Ukraine and has given Lukoil until January 17 to sell its global portfolio, valued at $22 billion.
+
+The assets include oil fields in many countries including Iraq, Azerbaijan and Kazakhstan as well as refineries and petrol stations in Europe and the United States.
+
+The firm's operations have been disrupted around the world due to sanctions and a lack of banking lines while Iraq has nationalised Lukoil's biggest oil field, West Qurna 2.
+
+Lukoil has been holding talks with potential investors since November, the four industry sources said.
+
+Carlyle declined to comment. IHC did not respond to a request for comment. Chevron and Quantum declined to comment.
+
+Once Lukoil reaches a deal, the future buyer needs to obtain clearance from the U.S. Department of the Treasury's Office of Foreign Assets Control, according to U.S. regulations.
+
+OFAC may extend the current general licence and allow negotiations between Lukoil and buyers to continue, three of the four sources said.
+
+Treasury did not immediately respond to a request for comment. OFAC may opt to grant individual licences to one or several potential buyers before the January 17 deadline, a fifth source said. Treasury has blocked two attempted deals so far, first between Lukoil and Swiss trading group Gunvor in October and a proposed share swap engineered by Xtellus Partners, the former U.S. arm of Russian bank VTB, in December.
+
+(Reporting by Anna Hirtenstein in London, Shariq Khan in New York and Timothy Gardner in Washington. Additional reporting by Dmitry Zhdannikov; Editing by Matthew Lewis)",329,329,full,16,False,False,none,Lukoil asset frontrunners are Carlyle / Chevron-Quantum / IHC; Exxon never mentioned

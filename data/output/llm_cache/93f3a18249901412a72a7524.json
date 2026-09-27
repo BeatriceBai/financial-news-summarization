@@ -1,0 +1,13 @@
+{
+ "model": "claude-opus-5-5",
+ "system": "You are a meticulous senior equity research editor. You audit news summaries written for analysts. You are strict about factual accuracy and you do not reward length.",
+ "prompt": "An analyst covering Charles Schwab (SCHW) will read ONE of two summaries instead of the article.\nWhich summary serves that analyst better? Judge against the ARTICLE only.\nPriorities, in order: (1) factual accuracy - any unsupported claim is a serious defect;\n(2) usefulness for a SCHW analyst, including representing honestly how relevant the article is to SCHW;\n(3) concision. Ignore formatting differences and do not prefer a summary for being longer.\n\n<article>\nHEADLINE: Charles Schwab will match the U.S. government's one-time $1,000 contribution to eligible newborn children of Schwab's U.S. employees, providing an additional $1,000 per eligible child\n\nBODY:\n[No article body - headline only]\n</article>\n\n<summary_1>\nCharles Schwab announced it will match the U.S. government's one-time $1,000 contribution for eligible newborn children of its U.S. employees, effectively doubling the benefit to $2,000 per eligible child. This move represents an enhancement to Schwab's employee benefits package, potentially strengthening talent retention and recruitment efforts. While the financial impact on the company's overall balance sheet is likely minimal given typical employee birth rates, the announcement signals continued investment in workforce benefits, which investors may view as a positive indicator of corporate culture and employee-focused policy amid competitive labor markets in the financial services sector.\n</summary_1>\n\n<summary_2>\n[SCHW relevance: primary | sentiment: neutral]\nCharles Schwab will match the U.S. government's one-time $1,000 contribution for eligible newborn children of its U.S. employees, adding an extra $1,000 per eligible child as an employee benefit.\nKey facts:\n- Schwab matches government's $1,000 contribution to newborns of U.S. employees\n- Provides additional $1,000 per eligible child\n</summary_2>\n\nReturn only JSON: {\"reason\": \"<= 40 words\", \"winner\": \"1\" | \"2\" | \"tie\"}",
+ "schema": "PairwiseJudgment",
+ "text": "{\"reason\":\"Summary 1 adds unsupported speculation about retention, minimal financial impact, investor perception, and labor markets. Summary 2 accurately restates the headline and is concise, though it repeats itself. Its relevance tag is defensible.\",\"winner\":\"2\"}",
+ "usage": {
+  "input": 999,
+  "output": 93,
+  "stop_reason": "end_turn",
+  "structured": true
+ }
+}

@@ -1,0 +1,90 @@
+item,article_id,ticker,approach,faithfulness,ticker_focus,coverage,conciseness,note,text
+0,38,AAPL,A_simple,2,4,5,2,"Adds facts not in the article (Goldman Sachs as prior issuer, 'friction'); speculative Services-revenue implications.","JPMorgan Chase has been confirmed as the new issuer of Apple Card, taking over from Goldman Sachs. Cardholders will retain existing features, including up to 3% unlimited Daily Cash back, Apple Card Family, access to a high-yield Savings account, and intuitive spending tools. Mastercard continues as the payment network, preserving global acceptance and network benefits. This transition suggests Apple is stabilizing its financial services partnerships after reported friction with Goldman Sachs, potentially improving customer service and program economics. Investors should watch for any changes to terms, rewards structure, or expansion of Apple's financial ecosystem that could affect Services segment revenue and customer loyalty."
+1,21,NVDA,A_simple,3,2,4,3,Frames a market wrap as an Nvidia story; causal link to Oracle stated as fact; speculative closing line on NVDA.,"Nvidia shares fell 1.8% Wednesday as broader AI-related tech concerns resurfaced after Oracle dropped 2.8% on reports that Blue Owl Capital won't back a $10 billion data center deal, reigniting worries about debt-fueled AI infrastructure spending. Despite this, major indexes edged higher (S&P 500 +0.11%, Nasdaq +0.08%), helped by Fed Governor Waller's dovish comments suggesting room for rate cuts. Investors remain focused on tech valuations, with rotation into small caps, healthcare, and banks. Amazon rose on OpenAI investment talks. Thursday's inflation data will be closely watched for further Fed policy signals affecting AI-sensitive names like Nvidia."
+2,10,XOM,A_simple,2,4,5,2,Adds unsupported context (Lukoil 'looking to divest'; 'largest oil reserves'); pads a 2-sentence report.,"Exxon Mobil has reportedly approached Iraq's oil ministry expressing interest in acquiring Lukoil's majority stake in the West Qurna 2 oilfield, according to five Iraqi officials cited by Reuters. This move comes as Lukoil, a Russian firm, may be looking to divest assets amid geopolitical pressures. Neither Exxon nor Lukoil has confirmed the report. If completed, this acquisition could expand Exxon's footprint in Iraq's oil sector, potentially strengthening its position in one of the world's largest oil reserves, though details on valuation, timing, or regulatory hurdles remain unclear at this stage."
+3,38,AAPL,B_structured,5,5,5,4,Accurate; key facts repeat the summary.,"[AAPL relevance: primary | sentiment: neutral]
+Chase confirmed as new issuer of Apple Card, continuing features like up to 3% Daily Cash back and high-yield Savings account, with Mastercard remaining the payment network.
+Key facts:
+- Chase becomes new issuer of Apple Card
+- Up to 3 percent unlimited Daily Cash back retained
+- Mastercard remains payment network for Apple Card"
+4,45,JPM,A_simple,2,2,3,3,Overstates JPM's role ('in focus'); refers to JPM's 'upcoming results' not in the article; misses that the story is about other banks.,"JPMorgan is in focus after executives warned this week that a proposed cap on credit-card interest rates could significantly hurt consumers and pressure financial stocks broadly, weighing on bank shares ahead of Wednesday's earnings from peers Citigroup, Bank of America, and Wells Fargo. While JPM doesn't report today, sector sentiment remains relevant as analysts anticipate strong investment banking fee growth industry-wide from a dealmaking revival. Broader market conditions—including Fed rate expectations, inflation data, and S&P 500 earnings growth projected at 8.8% YoY—will shape investor outlook on JPM's own upcoming results and its stance on regulatory risks like interest rate caps."
+5,35,SCHW,B_structured,5,5,5,4,Accurate; keeps the analyst target and the FactSet consensus distinct.,"[SCHW relevance: primary | sentiment: positive]
+Raymond James raised its price target on Charles Schwab to $114 from $110, maintaining an Outperform rating. Analysts polled by FactSet have an average rating of overweight and mean price target of $116.
+Key facts:
+- Raymond James PT raised to $114 from $110
+- Outperform rating maintained
+- FactSet consensus: overweight rating, $116 mean price target"
+6,35,SCHW,A_simple,4,5,5,3,Figures correct; 'aligns with broader sentiment' and 'confidence in upside' are interpretation.,"Raymond James raised its price target on Charles Schwab (SCHW) to $114 from $110, maintaining its Outperform rating. This aligns with broader analyst sentiment, as FactSet-polled analysts currently give SCHW an average ""overweight"" rating with a mean price target of $116, suggesting continued confidence in the stock's upside potential among Wall Street research firms covering the brokerage and financial services company."
+7,7,NVDA,B_structured,5,4,4,2,Content accurate but delivered as raw JSON (invalid JSON: unescaped quotes); hard to read.,"{
+  ""relevance"": ""primary"",
+  ""event_type"": ""earnings_guidance"",
+  ""summary"": ""Nvidia surged 4.9% premarket after forecasting Q4 sales above analyst estimates and beating Q3 revenue expectations. CEO Jensen Huang dismissed AI bubble concerns, saying ""We see something very different,"" boosting broader chip and tech stocks."",
+  ""key_facts"": [
+    ""Nvidia surged 4.9% in premarket trading"",
+    ""Forecast Q4 sales above analysts' estimates, beat Q3 revenue expectations"",
+    ""CEO Jensen Huang: 'We see something very different' on AI bubble concerns""
+  ],
+  ""sentiment_for_ticker"": ""positive"",
+  ""sentiment_rationale"": ""Strong results and guidance beat expectations, easing AI bubble fears, shares jumped premarket."",
+  ""information_quality"": ""full""
+}"
+8,24,AAPL,B_structured,5,5,5,5,"Accurate, complete and tight.","[AAPL relevance: primary | sentiment: negative]
+Italy's AGCM fined Apple roughly 98.6 million euros ($115.7 million) for alleged abuse of dominant position via its App Tracking Transparency policy, deemed unilaterally imposed and disproportionate to stated privacy goals.
+Key facts:
+- Fine: ~98.6 million euros ($115.7 million)
+- Probe involved AGCM, European Commission, and Italian Data Protection Authority
+- ATT policy ruled restrictive, harming commercial partners' interests"
+9,24,AAPL,A_simple,3,4,5,3,First half accurate; adds outside context (ongoing EU scrutiny) and investor advice.,"Italy's antitrust regulator (AGCM) fined Apple roughly €98.6 million ($115.7 million) for allegedly abusing a dominant market position through its App Tracking Transparency (ATT) policy. The probe, conducted with the European Commission and Italian Data Protection Authority, found ATT's terms were unilaterally imposed, harmed commercial partners, and were disproportionate to Apple's stated privacy goals. This adds to Apple's ongoing regulatory scrutiny in Europe over App Store practices and antitrust concerns, potentially signaling further fines or forced policy changes across EU jurisdictions. Apple has not yet commented. Investors should watch for broader EU regulatory implications and possible appeal."
+10,4,XOM,B_structured,5,5,4,5,Accurate and attributed; omits 'Exxon declined to comment'.,"[XOM relevance: primary | sentiment: neutral]
+Sources say Exxon is considering bids for parts of sanctioned Lukoil's international assets, including Kazakhstan stakes (Karachaganak, Tengiz) and possibly Iraq's West Qurna 2, joining Chevron and other potential bidders after Treasury cleared talks through December 13.
+Key facts:
+- Exxon studying Lukoil stakes in Kazakhstan's Karachaganak and Tengiz fields
+- Exxon may also consider Iraq's West Qurna 2, Lukoil's top asset
+- U.S. Treasury cleared talks with Lukoil through December 13"
+11,42,NVDA,A_simple,3,5,5,3,Slightly overstates the Reuters report (upfront payment vs 'strict terms'); speculative revenue-visibility line; no rumour caveat.,"Nvidia has publicly denied a Reuters report claiming it required upfront payment from Chinese customers for H200 chip orders. A company spokesperson stated Nvidia does not require prepayment and would never ask customers to pay for undelivered products. The original Reuters report suggested Nvidia had tightened payment terms for Chinese buyers due to uncertainty over whether Chinese regulators would approve the H200 shipments. This clarification addresses concerns about Nvidia's sales practices in China amid ongoing regulatory ambiguity, though the underlying uncertainty around Chinese approval for H200 exports remains unresolved and could still affect near-term revenue visibility in that market."
+12,33,SCHW,B_structured,5,5,5,5,Correctly flags peripheral relevance; only the SCHW line is reported.,"[SCHW relevance: peripheral | sentiment: positive]
+Among a broad roundup of analyst rating/target changes, Jefferies raised its price target on Charles Schwab Corp to $121 from $114, with no other SCHW-specific detail provided.
+Key facts:
+- Jefferies raises Charles Schwab target price to $121 from $114"
+13,21,NVDA,B_structured,5,5,5,4,Correctly flags peripheral relevance; accurate.,"[NVDA relevance: peripheral | sentiment: negative]
+In a broad market wrap, Nvidia is noted as down 1.8% amid sector-wide worries about tech's debt-funded AI spending, following Oracle data center financing concerns.
+Key facts:
+- Nvidia lost 1.8% on Wednesday
+- Called an 'AI bellwether' amid tech debt/AI funding worries
+- Oracle fell 2.8% on data center financing report"
+14,10,XOM,B_structured,5,5,5,4,"Accurate, attributed to sources; key facts repeat the summary.","[XOM relevance: primary | sentiment: positive]
+Reuters reports, citing five Iraqi official sources, that Exxon Mobil approached Iraq's oil ministry expressing interest in buying Lukoil's majority stake in the West Qurna 2 oilfield. Exxon declined to comment; Lukoil did not respond.
+Key facts:
+- Exxon approached Iraqi oil ministry about Lukoil's West Qurna 2 stake
+- Report based on five Iraqi official sources, per Reuters
+- Exxon declined to comment; Lukoil did not respond"
+15,4,XOM,A_simple,2,4,5,3,States a sourced report as fact; wrong year for the West Qurna 1 exit (article: 'last year'); speculative 'strategic upside'.,"Exxon Mobil is exploring acquisitions of sanctioned Lukoil's international assets, joining Chevron and other bidders after U.S. Treasury authorized talks through December 13. Key targets include Lukoil's stakes in Kazakhstan's Karachaganak and Tengiz fields, where Exxon and Chevron already hold interests, and Iraq's West Qurna 2 field—notably adjacent to West Qurna 1, which Exxon previously operated before exiting in 2023. Other interested parties reportedly include ADNOC and Carlyle. Lukoil's foreign portfolio spans refineries, oilfields across multiple countries, and retail stations, representing roughly 0.5% of global oil output—signaling potential strategic upside for Exxon if a deal materializes."
+16,42,NVDA,B_structured,5,5,5,4,Accurate; quotes the denial.,"[NVDA relevance: primary | sentiment: neutral]
+Nvidia denied requiring upfront payment for H200 chips, responding to a Reuters report that it imposed unusually strict payment terms on Chinese customers amid uncertainty over Chinese regulatory approval of shipments.
+Key facts:
+- Nvidia spokesperson: 'We do not require upfront payment' for H200 chips
+- Reuters reported stricter H200 order terms for Chinese customers last week
+- Uncertainty cited over Chinese regulatory approval of H200 shipments"
+17,33,SCHW,A_simple,4,3,5,3,"Figures correct, but buries that SCHW is one line in a roundup; sector-sentiment conclusion not in the article.","Jefferies raised its price target on Charles Schwab (SCHW) to $121 from $114 in a broader roundup of analyst rating and target price revisions across multiple sectors. The update also included notable moves in financial peers, with Jefferies raising targets on Morgan Stanley to $212 (from $186), LPL Financial to $426 (from $391), and Interactive Brokers to $83 (from $80), while cutting Raymond James to $166. Other highlights included Jefferies upgrading Brunswick to buy, JP Morgan initiating Parker-Hannifin at overweight, and RBC initiating Wealthfront at outperform, reflecting generally constructive sentiment toward brokerage and wealth management stocks entering the new year."
+18,45,JPM,B_structured,5,5,4,4,Correctly flags peripheral relevance; accurate.,"[JPM relevance: peripheral | sentiment: negative]
+Article focuses on other banks' earnings and macro data. JPM mentioned only in passing: executives reportedly warned a proposed cap on credit-card interest rates could hurt consumers and drag down financials.
+Key facts:
+- JPMorgan executives warned a proposed credit-card interest rate ceiling could hurt consumers and financials
+- This warning came a day before Citigroup, Bank of America, Wells Fargo earnings
+- Financial stocks were reportedly hurt following the warning"
+19,26,SCHW,A_simple,3,4,5,2,"'$2,000' is derivable; the rest is speculation (retention, culture, balance-sheet impact) padding a headline-only item.","Charles Schwab announced it will match the U.S. government's one-time $1,000 contribution for eligible newborn children of its U.S. employees, effectively doubling the benefit to $2,000 per eligible child. This move represents an enhancement to Schwab's employee benefits package, potentially strengthening talent retention and recruitment efforts. While the financial impact on the company's overall balance sheet is likely minimal given typical employee birth rates, the announcement signals continued investment in workforce benefits, which investors may view as a positive indicator of corporate culture and employee-focused policy amid competitive labor markets in the financial services sector."
+20,26,SCHW,B_structured,5,5,5,3,Accurate; three key facts restate one headline.,"[SCHW relevance: primary | sentiment: neutral]
+Charles Schwab will match the U.S. government's one-time $1,000 contribution to eligible newborn children of its U.S. employees, adding an additional $1,000 per eligible child as an employee benefit.
+Key facts:
+- Schwab matches government's one-time $1,000 contribution
+- Additional $1,000 per eligible newborn child
+- Applies to eligible newborns of Schwab's U.S. employees"
+21,5,NVDA,A_simple,4,4,5,4,Figures correct; '4-5%' range slightly understates Tokyo Electron (+5.4%).,"Nvidia shares jumped 5.1% after-hours as CEO Jensen Huang forecast quarterly revenue well above estimates and dismissed AI-bubble concerns, citing strong demand from cloud providers. The results triggered a broad relief rally across Asian tech markets—Nikkei up 4.2%, Kospi up 3.3%, Taiwan up 3.4%—with AI supply-chain names like TSMC, Samsung, SK Hynix, and Tokyo Electron surging 4-5%. S&P futures rose 1.3%. This easing of valuation fears comes as markets also digest delayed U.S. jobs data, with Fed rate-cut odds for December falling to 33% from 50%, reflecting a scheduling quirk pushing the next jobs report past the FOMC meeting."
+22,7,NVDA,A_simple,4,4,5,4,Mostly accurate; 'reversed a rough November' overstates a premarket move.,"Nvidia shares jumped 4.9% premarket after posting third-quarter revenue that beat expectations and issuing an above-consensus forecast for Q4, easing investor fears of an AI bubble. CEO Jensen Huang dismissed bubble concerns, calling current AI demand fundamentally different. The results reversed a rough November for tech stocks (Nasdaq down ~5% month-to-date) and lifted peers—AMD rose 4.3%, with Broadcom and Marvell also gaining. Analysts noted the ""bear thesis"" on AI is weakening while the trade remains intact. Broader futures rose sharply ahead of delayed September jobs data, with markets also weighing reduced odds (34%) of a December Fed rate cut."
+23,5,NVDA,B_structured,5,5,5,5,Accurate; correctly labels relevance secondary.,"[NVDA relevance: secondary | sentiment: positive]
+Nvidia rose 5.1% after-hours after forecasting quarterly revenue well above Wall Street estimates. CEO Jensen Huang cited blockbuster AI chip demand from cloud providers, easing AI valuation fears and sparking a broad Asian market rally.
+Key facts:
+- Nvidia up 5.1% after-hours on revenue forecast well above estimates
+- CEO Jensen Huang touted blockbuster AI chip demand, dismissed bubble concerns
+- Rally lifted AI supply chain stocks: TSMC +4.3%, Samsung +5.1%, SK Hynix +4.5%"

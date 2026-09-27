@@ -1,0 +1,7 @@
+slice,approach,n,faithfulness,unsupported_claims,material_claims,ticker_focus,coverage,overstates_link
+peripheral / unrelated to ticker,A_simple,12,2.67,3.58,1.0,2.83,3.83,0.75
+peripheral / unrelated to ticker,B_structured,12,4.25,0.92,0.0,4.58,3.75,0.08
+"substantive, ticker-relevant",A_simple,26,2.92,2.96,0.85,4.27,4.31,0.12
+"substantive, ticker-relevant",B_structured,26,4.31,0.88,0.0,4.77,4.15,0.0
+thin input (headline-only / analyst note),A_simple,11,2.64,3.45,0.64,4.09,4.73,0.18
+thin input (headline-only / analyst note),B_structured,11,4.91,0.09,0.0,5.0,5.0,0.0
